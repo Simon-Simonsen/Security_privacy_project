@@ -1,0 +1,75 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+install.packages("readxl")
+
+library(readxl)
+
+
+df <- read_excel("private_dataP.xlsx")
+
+df
+```{r}
+
+```
+
+normal_vote <- df[df$evote == 0, ] 
+e_vote <- df[df$evote == 1, ]
+
+```{r}
+
+```
+
+normal_table <- table(normal_vote$party)
+e_table <- table(e_vote$party)
+
+e_table
+normal_table
+
+```{r}
+
+```
+#A
+contingency_tableA <- table(df$party, df$evote)
+chisq.test(contingency_tableA)
+#p-value = 0.07145
+
+
+#C
+#sex
+contingency_tableS <- table(df$evote, df$sex)
+chisq.test(contingency_tableS)
+#p-value = 0.9988
+
+#zip
+contingency_tableZ <- table(df$evote, df$zip)
+chisq.test(contingency_tableZ)
+#p-value = 0.6796
+
+#age
+install.packages("lubridate")
+library(lubridate)
+df$age <- floor(time_length(interval(as.Date(df$dob), Sys.Date()), "years"))
+contingency_tableA <- table(df$evote, df$age)
+chisq.test(contingency_tableA)
+#p-value = 0.1689
+
+#citizenship
+contingency_tableCi <- table(df$evote, df$citizenship)
+chisq.test(contingency_tableCi)
+#p-value = 0.2399
+
+#marital status
+contingency_tableM <- table(df$evote, df$marital_status)
+chisq.test(contingency_tableM)
+#p-value = 0.1541
