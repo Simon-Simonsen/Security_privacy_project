@@ -1,0 +1,201 @@
+education,citizenship,marital_status,age_group,sex,evote,party
+Masters programmes,Non-Danish,Never married,35 - 44,Male,1,Green
+Bachelors programmes,Danish,Never married,35 - 44,Male,1,Green
+Masters programmes,Danish,Widowed / Divorced,65+,Male,0,Red
+Masters programmes,Danish,Married/separated,35 - 44,Male,0,Red
+Vocational Education and Training (VET),Danish,Never married,55 - 64,Male,1,Green
+Short cycle higher education,Danish,Married/separated,35 - 44,Male,1,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,35 - 44,Male,1,Red
+Short cycle higher education,Danish,Married/separated,45 - 54,Male,1,Green
+Vocational bachelors educations,Danish,Never married,65+,Male,0,Red
+Primary education,Danish,Never married,18 - 34,Female,0,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Male,1,Green
+Primary education,Danish,Never married,65+,Male,0,Green
+Primary education,Danish,Married/separated,55 - 64,Female,0,Green
+Masters programmes,Danish,Widowed / Divorced,45 - 54,Male,0,Red
+Primary education,Danish,Married/separated,65+,Male,1,Green
+Masters programmes,Non-Danish,Married/separated,45 - 54,Male,0,Red
+Vocational bachelors educations,Danish,Married/separated,35 - 44,Male,0,Red
+Upper secondary education,Non-Danish,Married/separated,18 - 34,Female,0,Green
+Upper secondary education,Danish,Never married,18 - 34,Male,0,Green
+Upper secondary education,Danish,Married/separated,35 - 44,Male,0,Red
+Masters programmes,Danish,Married/separated,35 - 44,Male,1,Red
+Short cycle higher education,Non-Danish,Married/separated,35 - 44,Female,0,Green
+Primary education,Danish,Never married,18 - 34,Male,1,Green
+Upper secondary education,Danish,Never married,18 - 34,Female,0,Green
+Primary education,Danish,Never married,35 - 44,Male,0,Green
+Primary education,Danish,Widowed / Divorced,55 - 64,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Male,0,Red
+Vocational Education and Training (VET),Non-Danish,Never married,55 - 64,Female,0,Red
+Vocational bachelors educations,Non-Danish,Married/separated,45 - 54,Male,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,55 - 64,Female,0,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,55 - 64,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Male,1,Red
+Masters programmes,Non-Danish,Married/separated,35 - 44,Male,0,Green
+Bachelors programmes,Danish,Widowed / Divorced,65+,Female,0,Red
+Vocational Education and Training (VET),Danish,Never married,45 - 54,Female,0,Red
+Primary education,Danish,Married/separated,45 - 54,Female,0,Red
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Male,0,Green
+Primary education,Danish,Widowed / Divorced,45 - 54,Female,0,Green
+Short cycle higher education,Danish,Widowed / Divorced,65+,Male,0,Green
+Primary education,Danish,Never married,18 - 34,Female,1,Green
+Vocational bachelors educations,Danish,Married/separated,65+,Male,0,Green
+Vocational Education and Training (VET),Danish,Never married,65+,Female,1,Red
+Not stated,Danish,Never married,18 - 34,Male,1,Green
+Upper secondary education,Danish,Married/separated,45 - 54,Male,0,Red
+Vocational Education and Training (VET),Danish,Widowed / Divorced,45 - 54,Female,1,Green
+Primary education,Non-Danish,Married/separated,65+,Male,0,Green
+Upper secondary education,Danish,Married/separated,55 - 64,Male,0,Green
+Vocational Education and Training (VET),Danish,Never married,45 - 54,Male,0,Red
+Primary education,Danish,Married/separated,55 - 64,Female,0,Green
+Primary education,Danish,Married/separated,55 - 64,Female,0,Green
+Masters programmes,Non-Danish,Never married,35 - 44,Female,1,Green
+Vocational Education and Training (VET),Non-Danish,Married/separated,35 - 44,Female,0,Green
+Primary education,Danish,Married/separated,18 - 34,Male,0,Green
+Primary education,Danish,Married/separated,65+,Male,1,Green
+Vocational bachelors educations,Danish,Married/separated,45 - 54,Male,0,Green
+Upper secondary education,Danish,Never married,18 - 34,Female,0,Green
+Vocational bachelors educations,Danish,Never married,65+,Female,1,Red
+Short cycle higher education,Danish,Married/separated,55 - 64,Male,0,Red
+Short cycle higher education,Danish,Never married,18 - 34,Male,0,Green
+Masters programmes,Danish,Never married,18 - 34,Female,1,Red
+Vocational Education and Training (VET),Non-Danish,Never married,18 - 34,Female,1,Green
+Bachelors programmes,Danish,Never married,18 - 34,Female,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,55 - 64,Male,0,Red
+Masters programmes,Danish,Married/separated,45 - 54,Female,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Male,0,Green
+Masters programmes,Danish,Widowed / Divorced,55 - 64,Female,0,Red
+Primary education,Non-Danish,Never married,18 - 34,Male,1,Green
+Vocational bachelors educations,Danish,Married/separated,45 - 54,Female,0,Red
+Primary education,Danish,Widowed / Divorced,65+,Male,0,Green
+Primary education,Danish,Widowed / Divorced,45 - 54,Female,1,Green
+Vocational Education and Training (VET),Danish,Married/separated,65+,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,18 - 34,Female,1,Green
+Vocational Education and Training (VET),Danish,Never married,55 - 64,Male,0,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Female,1,Red
+PhD programmes,Danish,Married/separated,35 - 44,Male,0,Green
+Masters programmes,Danish,Married/separated,35 - 44,Male,1,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,45 - 54,Male,1,Green
+Primary education,Danish,Never married,55 - 64,Male,0,Green
+Primary education,Danish,Never married,35 - 44,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,55 - 64,Male,0,Green
+Not stated,Danish,Never married,18 - 34,Male,1,Green
+Vocational Education and Training (VET),Danish,Never married,45 - 54,Male,0,Green
+Upper secondary education,Danish,Never married,18 - 34,Female,0,Red
+Short cycle higher education,Danish,Married/separated,45 - 54,Male,1,Green
+Primary education,Danish,Married/separated,65+,Male,1,Green
+Vocational Education and Training (VET),Danish,Married/separated,65+,Male,1,Red
+Vocational bachelors educations,Danish,Never married,18 - 34,Female,1,Green
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Male,0,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,0,Green
+Masters programmes,Danish,Never married,35 - 44,Female,0,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,0,Green
+Upper secondary education,Danish,Married/separated,18 - 34,Female,1,Green
+Vocational Education and Training (VET),Danish,Married/separated,55 - 64,Female,1,Red
+Vocational bachelors educations,Danish,Married/separated,55 - 64,Female,1,Red
+Masters programmes,Danish,Married/separated,35 - 44,Female,0,Red
+Primary education,Non-Danish,Married/separated,55 - 64,Male,1,Green
+Vocational bachelors educations,Danish,Never married,35 - 44,Female,0,Red
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Male,1,Green
+Masters programmes,Non-Danish,Never married,45 - 54,Male,1,Green
+Vocational bachelors educations,Danish,Never married,18 - 34,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Female,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,65+,Male,0,Green
+Primary education,Non-Danish,Widowed / Divorced,65+,Female,0,Red
+Masters programmes,Danish,Never married,35 - 44,Male,1,Green
+Masters programmes,Danish,Married/separated,35 - 44,Female,1,Red
+Vocational bachelors educations,Danish,Widowed / Divorced,55 - 64,Female,1,Red
+Masters programmes,Non-Danish,Married/separated,45 - 54,Female,0,Red
+Upper secondary education,Danish,Widowed / Divorced,65+,Female,1,Green
+Masters programmes,Danish,Married/separated,65+,Male,0,Red
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Male,1,Green
+Bachelors programmes,Danish,Never married,18 - 34,Female,0,Green
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Female,0,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,1,Green
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Male,1,Green
+Vocational Education and Training (VET),Danish,Never married,45 - 54,Male,0,Green
+Primary education,Danish,Married/separated,55 - 64,Female,1,Red
+Masters programmes,Non-Danish,Married/separated,65+,Female,0,Green
+Primary education,Danish,Married/separated,65+,Male,0,Green
+Primary education,Danish,Never married,18 - 34,Female,1,Green
+Upper secondary education,Danish,Never married,18 - 34,Female,1,Green
+Vocational bachelors educations,Danish,Married/separated,55 - 64,Female,0,Red
+Vocational bachelors educations,Danish,Married/separated,35 - 44,Female,1,Red
+Vocational bachelors educations,Danish,Married/separated,45 - 54,Male,0,Green
+Vocational Education and Training (VET),Non-Danish,Widowed / Divorced,55 - 64,Male,0,Green
+Not stated,Danish,Widowed / Divorced,35 - 44,Female,1,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Female,1,Green
+Masters programmes,Non-Danish,Never married,18 - 34,Male,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,65+,Male,0,Red
+Vocational Education and Training (VET),Non-Danish,Married/separated,55 - 64,Male,0,Red
+Primary education,Danish,Never married,35 - 44,Male,1,Red
+Masters programmes,Danish,Never married,35 - 44,Female,1,Green
+Vocational Education and Training (VET),Danish,Never married,45 - 54,Female,0,Green
+Vocational bachelors educations,Danish,Married/separated,35 - 44,Female,1,Green
+Vocational bachelors educations,Danish,Never married,18 - 34,Female,0,Green
+Bachelors programmes,Danish,Married/separated,55 - 64,Female,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,65+,Female,0,Red
+Masters programmes,Danish,Never married,18 - 34,Female,0,Green
+Upper secondary education,Danish,Married/separated,35 - 44,Male,0,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,45 - 54,Female,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,45 - 54,Male,0,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,45 - 54,Male,1,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,0,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Male,0,Green
+Vocational bachelors educations,Danish,Never married,35 - 44,Male,0,Green
+Primary education,Danish,Married/separated,65+,Female,1,Red
+Vocational bachelors educations,Danish,Married/separated,45 - 54,Female,0,Red
+Primary education,Danish,Married/separated,55 - 64,Female,0,Red
+Upper secondary education,Danish,Never married,18 - 34,Male,1,Green
+Primary education,Danish,Married/separated,55 - 64,Male,0,Green
+Upper secondary education,Danish,Never married,18 - 34,Female,1,Green
+Vocational Education and Training (VET),Danish,Married/separated,65+,Female,0,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,35 - 44,Male,0,Green
+Bachelors programmes,Danish,Never married,18 - 34,Male,1,Green
+Primary education,Danish,Married/separated,65+,Male,0,Red
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Female,1,Green
+Masters programmes,Danish,Married/separated,35 - 44,Female,1,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,65+,Male,1,Red
+Vocational Education and Training (VET),Danish,Married/separated,55 - 64,Female,0,Green
+Vocational Education and Training (VET),Danish,Never married,55 - 64,Female,0,Red
+Primary education,Danish,Married/separated,55 - 64,Male,1,Green
+Upper secondary education,Danish,Never married,55 - 64,Female,0,Red
+Vocational Education and Training (VET),Danish,Never married,18 - 34,Male,1,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,55 - 64,Female,0,Red
+Vocational bachelors educations,Danish,Married/separated,65+,Male,0,Green
+Masters programmes,Danish,Married/separated,18 - 34,Male,1,Red
+Primary education,Danish,Never married,18 - 34,Female,1,Green
+Vocational bachelors educations,Danish,Married/separated,35 - 44,Female,0,Red
+Masters programmes,Danish,Never married,35 - 44,Female,0,Red
+Vocational bachelors educations,Danish,Married/separated,55 - 64,Female,1,Red
+Not stated,Danish,Never married,18 - 34,Male,0,Green
+Vocational Education and Training (VET),Danish,Married/separated,18 - 34,Female,0,Green
+Bachelors programmes,Danish,Never married,55 - 64,Male,1,Red
+Vocational bachelors educations,Danish,Widowed / Divorced,55 - 64,Male,0,Invalid vote
+Vocational Education and Training (VET),Danish,Widowed / Divorced,55 - 64,Male,1,Green
+Vocational bachelors educations,Danish,Married/separated,18 - 34,Female,1,Green
+Primary education,Danish,Never married,18 - 34,Female,1,Green
+Primary education,Danish,Never married,18 - 34,Female,1,Green
+Vocational bachelors educations,Non-Danish,Married/separated,55 - 64,Male,0,Red
+Short cycle higher education,Danish,Widowed / Divorced,55 - 64,Male,1,Green
+Masters programmes,Danish,Never married,35 - 44,Female,1,Red
+Vocational bachelors educations,Danish,Married/separated,35 - 44,Male,0,Green
+Primary education,Danish,Married/separated,65+,Female,0,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Female,0,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,1,Green
+Vocational Education and Training (VET),Danish,Never married,35 - 44,Male,1,Green
+Vocational Education and Training (VET),Danish,Widowed / Divorced,65+,Female,0,Green
+Vocational bachelors educations,Danish,Married/separated,65+,Female,1,Invalid vote
+Primary education,Danish,Married/separated,45 - 54,Female,1,Green
+Primary education,Danish,Never married,35 - 44,Female,1,Green
+Masters programmes,Danish,Never married,35 - 44,Male,0,Red
+Primary education,Danish,Married/separated,65+,Male,0,Red
+Masters programmes,Non-Danish,Never married,45 - 54,Male,0,Red
+Vocational bachelors educations,Danish,Never married,18 - 34,Female,0,Red
+Primary education,Danish,Married/separated,65+,Male,1,Green
+Vocational Education and Training (VET),Non-Danish,Widowed / Divorced,65+,Female,0,Green
+Upper secondary education,Danish,Married/separated,65+,Male,0,Green
+PhD programmes,Danish,Married/separated,45 - 54,Female,0,Red
+Masters programmes,Danish,Never married,18 - 34,Male,1,Green
+Vocational bachelors educations,Danish,Widowed / Divorced,65+,Female,1,Red
+Primary education,Danish,Married/separated,55 - 64,Female,0,Green
