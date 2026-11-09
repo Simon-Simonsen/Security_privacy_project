@@ -4,16 +4,11 @@
 2,"Davidson, Lucas",Male,18 - 34,2100,Non-Danish,Never married,1
 3,"Marin, Marisa",Female,18 - 34,2300,Non-Danish,Never married,1
 4,"Williams, Keith",Male,18 - 34,2100,Non-Danish,Never married,1
-5,"Gilbert, Braxton",Male,18 - 34,2400,Non-Danish,Never married,2
-6,"Aramburu, Nicole",Female,18 - 34,2100,Non-Danish,Never married,2
-7,"Cisneros, Evelyn",Female,18 - 34,2100,Non-Danish,Never married,2
 8,"Quintana, Jaritza",Female,18 - 34,2100,Non-Danish,Never married,1
 9,"Zheng, Charlie",Male,18 - 34,2300,Non-Danish,Never married,1
 10,"Zartman, Kevin",Male,18 - 34,2100,Non-Danish,Never married,1
 11,"Hacker, Travis",Male,18 - 34,2200,Non-Danish,Never married,1
-12,"Gallegos, Luis",Male,18 - 34,2100,Non-Danish,Never married,2
 13,"Sanders, Jonavan",Male,18 - 34,2100,Non-Danish,Never married,1
-14,"el-Neman, Mahdhoodha",Female,18 - 34,2100,Non-Danish,Never married,2
 15,"Gleason, Lillian",Female,18 - 34,2200,Non-Danish,Married/separated,1
 16,"Jones, Davis",Male,18 - 34,2100,Non-Danish,Never married,1
 17,"Simon, Christopher",Male,18 - 34,2400,Non-Danish,Never married,1
@@ -22,17 +17,12 @@
 20,"Lofton, Holly",Female,18 - 34,2300,Non-Danish,Never married,1
 21,"Verwiebe, Al",Male,18 - 34,2100,Non-Danish,Never married,1
 22,"Servin, Esteban",Male,18 - 34,2300,Non-Danish,Never married,1
-23,"Ridgley, Erica",Female,18 - 34,2100,Non-Danish,Never married,2
-24,"Durst, Kiyara",Female,18 - 34,2300,Non-Danish,Never married,2
 25,"Kness, Joseph",Male,18 - 34,2100,Non-Danish,Never married,1
 26,"Catano, Larry",Male,18 - 34,2100,Non-Danish,Never married,1
 27,"Nunez, Celestino",Male,18 - 34,2100,Non-Danish,Never married,1
 28,"Parker, Gabriella",Female,18 - 34,2100,Non-Danish,Never married,1
 29,"Bradish Moody, Exaviah",Female,18 - 34,2200,Non-Danish,Never married,1
-30,"Welsh, Keisha",Female,18 - 34,2300,Non-Danish,Never married,2
-31,"Duval, Heidi",Female,18 - 34,2200,Non-Danish,Never married,2
 32,"Martinez, Matthew",Male,18 - 34,2300,Non-Danish,Never married,1
-33,"Anchondo, Adrian",Male,18 - 34,2200,Non-Danish,Never married,2
 34,"Norris, Tyler",Male,18 - 34,2100,Non-Danish,Never married,1
 35,"Howard, Maria",Female,18 - 34,2400,Non-Danish,Never married,1
 36,"Romby, Rachel",Female,18 - 34,2100,Non-Danish,Never married,1
@@ -42,17 +32,12 @@
 40,"Gonzalez, Alex",Male,18 - 34,2200,Non-Danish,Never married,1
 41,"el-Rizk, Bassil",Male,18 - 34,2300,Non-Danish,Never married,1
 42,"el-Ayoub, Tawfeeq",Male,18 - 34,2300,Non-Danish,Never married,1
-43,"Shorty, Briana",Female,18 - 34,2100,Non-Danish,Never married,2
 44,"Milton, Dalaun",Male,18 - 34,2100,Non-Danish,Married/separated,1
-45,"Vasquez, Bryanna",Female,18 - 34,2100,Non-Danish,Never married,2
-46,"al-Masih, Zuhriyaa",Female,18 - 34,2300,Non-Danish,Never married,2
-47,"Hollis, Chad",Male,18 - 34,2200,Non-Danish,Widowed / Divorced,2
 48,"Lujan, Shelby",Female,18 - 34,2300,Non-Danish,Never married,1
 49,"Guzman, Anthony",Male,18 - 34,2200,Non-Danish,Never married,1
 50,"Gray, Condeladio",Male,35 - 44,2100,Non-Danish,Widowed / Divorced,1
 51,"Manivanh, Wen Kang",Male,18 - 34,2400,Non-Danish,Married/separated,1
 52,"el-Shaker, Hiba",Female,18 - 34,2100,Non-Danish,Never married,1
-53,"Hannifin, Dominic",Male,35 - 44,2400,Non-Danish,Married/separated,2
 54,"Clark, Savannah",Female,18 - 34,2200,Non-Danish,Never married,1
 55,"al-Arafat, Lutfiyya",Female,35 - 44,2100,Non-Danish,Married/separated,1
 56,"Atilano, Bree",Female,35 - 44,2200,Non-Danish,Widowed / Divorced,1
@@ -65,37 +50,23 @@
 63,"Ton, Ian",Male,35 - 44,2200,Non-Danish,Married/separated,1
 64,"Stackhouse, Hannah",Female,18 - 34,2100,Non-Danish,Never married,1
 65,"Ungphakorn, Danvy",Female,35 - 44,2200,Non-Danish,Married/separated,1
-66,"Harlan, Brycen",Male,35 - 44,2200,Non-Danish,Widowed / Divorced,2
-67,"Bohannon, Araceli",Female,35 - 44,2200,Non-Danish,Married/separated,2
 68,"Lorenzano Rodriguez, Elizabeth",Female,35 - 44,2100,Non-Danish,Never married,1
 69,"Wiand, Elizabeth",Female,18 - 34,2200,Non-Danish,Never married,1
 70,"Wright, Drayton",Male,18 - 34,2100,Non-Danish,Never married,1
-71,"Medina, Bridget",Female,35 - 44,2400,Non-Danish,Married/separated,2
 72,"Vigil, Rayden",Male,18 - 34,2100,Non-Danish,Married/separated,1
 73,"Garduno, Stephen",Male,18 - 34,2300,Non-Danish,Married/separated,1
-74,"al-Karim, Khaleela",Female,35 - 44,2300,Non-Danish,Widowed / Divorced,2
 75,"el-Salame, Naseema",Female,35 - 44,2400,Non-Danish,Never married,1
 76,"Houdek, Rashiah",Female,35 - 44,2400,Non-Danish,Married/separated,1
 77,"Tenney, Jessica",Female,18 - 34,2300,Non-Danish,Never married,1
-78,"Friedman, Shaun",Female,18 - 34,2200,Non-Danish,Never married,2
 79,"Weldon, Luis",Male,18 - 34,2100,Non-Danish,Never married,1
 80,"Glaspy, Dillon",Male,18 - 34,2200,Non-Danish,Never married,1
 81,"Fairbanks, Chassity",Female,35 - 44,2100,Non-Danish,Never married,1
 82,"Parker, Tyler",Male,18 - 34,2100,Non-Danish,Never married,1
-83,"Sanderson, Catherina",Female,18 - 34,2200,Non-Danish,Married/separated,2
-84,"Montano, Erika",Female,35 - 44,2300,Non-Danish,Never married,2
 85,"el-Mahmood, Saabiq",Male,18 - 34,2200,Non-Danish,Never married,1
-86,"el-Baksh, Mahfooz",Male,35 - 44,2400,Non-Danish,Married/separated,2
 87,"Billings, Amber",Female,35 - 44,2400,Non-Danish,Never married,1
-88,"al-Safi, Marjaana",Female,18 - 34,2100,Non-Danish,Never married,2
 89,"Durrah, Jalan",Male,18 - 34,2400,Non-Danish,Never married,1
-90,"Liu, Savannah",Female,18 - 34,2300,Non-Danish,Married/separated,2
 91,"Tanner, Deandre",Male,18 - 34,2100,Non-Danish,Never married,1
-92,"Hawley, Michael",Male,18 - 34,2300,Non-Danish,Never married,2
-93,"Gutierrez, Valentina",Female,35 - 44,2300,Non-Danish,Married/separated,2
 94,"el-Saab, Thanaa",Female,35 - 44,2300,Non-Danish,Married/separated,1
-95,"Young, Alexander",Male,35 - 44,2200,Non-Danish,Never married,2
-96,"al-Bagheri, Samraa",Female,18 - 34,2100,Non-Danish,Never married,2
 97,"Tewari, Rashida",Female,18 - 34,2200,Non-Danish,Never married,1
 98,"Brayshaw, Tia",Female,35 - 44,2200,Non-Danish,Never married,1
 99,"Edmonds, Erica",Female,18 - 34,2200,Non-Danish,Never married,1
@@ -103,18 +74,14 @@
 101,"Rios Cuellar, Hugo",Male,18 - 34,2200,Non-Danish,Never married,1
 102,"Benson, Douglas",Male,18 - 34,2100,Non-Danish,Married/separated,1
 103,"Jaeckel, Danielle",Female,35 - 44,2400,Non-Danish,Married/separated,1
-104,"Orozco, Audra",Female,18 - 34,2100,Non-Danish,Never married,2
 105,"Branum, Dominique",Female,18 - 34,2300,Non-Danish,Never married,1
 106,"Smith, Dhwani",Female,35 - 44,2400,Non-Danish,Never married,1
-107,"Mckay, Kelsey",Female,18 - 34,2100,Non-Danish,Married/separated,2
 108,"al-Ghaffari, Waatiq",Male,18 - 34,2200,Non-Danish,Never married,1
 109,"Bell, Dominic",Male,18 - 34,2400,Non-Danish,Never married,1
 110,"al-Iqbal, Raashid",Male,35 - 44,2400,Non-Danish,Married/separated,1
 111,"Heimann, Nicole",Female,18 - 34,2300,Non-Danish,Never married,1
 112,"Coutu, Jasmine",Female,35 - 44,2200,Non-Danish,Married/separated,1
-113,"Nakamura, Ji",Female,18 - 34,2100,Non-Danish,Never married,2
 114,"Anderson, Amanda",Female,35 - 44,2400,Non-Danish,Married/separated,1
-115,"Calderon-Contreras, Jordan",Female,35 - 44,2300,Non-Danish,Never married,2
 116,"Valdez, Marlo",Female,35 - 44,2400,Non-Danish,Never married,1
 117,"Vo, Raja",Male,18 - 34,2100,Non-Danish,Never married,1
 118,"Thomas-Mcclendon, Audrey",Female,35 - 44,2200,Non-Danish,Married/separated,1
@@ -123,49 +90,34 @@
 121,"Garlick, Arturo",Male,35 - 44,2100,Non-Danish,Married/separated,1
 122,"Abdurahman, James",Male,18 - 34,2300,Non-Danish,Never married,1
 123,"John, Ashley",Female,35 - 44,2400,Non-Danish,Never married,1
-124,"el-Kanan, Shakoora",Female,18 - 34,2300,Non-Danish,Married/separated,2
 125,"Bell, Istiaq",Male,35 - 44,2200,Non-Danish,Never married,1
-126,"Jones, Tianna",Female,18 - 34,2400,Non-Danish,Never married,2
 127,"Mcginn, Tyler",Male,18 - 34,2400,Non-Danish,Never married,1
 128,"Pino, Roger",Male,18 - 34,2200,Non-Danish,Married/separated,1
-129,"Yardley, Christian",Male,18 - 34,2200,Non-Danish,Married/separated,2
 130,"Snyder, Bridget",Female,35 - 44,2400,Non-Danish,Never married,1
-131,"al-Bashara, Waheeba",Female,18 - 34,2100,Non-Danish,Married/separated,2
 132,"el-Sheikh, Waseem",Male,18 - 34,2400,Non-Danish,Never married,1
-133,"Neal, Dominique",Male,35 - 44,2400,Non-Danish,Never married,2
 134,"Duch, Nina",Female,18 - 34,2100,Non-Danish,Never married,1
 135,"Yang, Melissa",Female,18 - 34,2200,Non-Danish,Married/separated,1
-136,"Archuleta, Joseph",Male,18 - 34,2200,Non-Danish,Never married,2
 137,"al-Can, Tawheed",Male,35 - 44,2400,Non-Danish,Never married,1
-138,"Ragin, Marcel",Male,18 - 34,2300,Non-Danish,Never married,2
-139,"Fagler, Anthony",Male,18 - 34,2300,Non-Danish,Never married,2
 140,"Morris, Taylor",Male,18 - 34,2300,Non-Danish,Never married,1
 141,"Manzo, Shyanne",Female,18 - 34,2100,Non-Danish,Never married,1
 142,"Jahner, Tyran",Male,35 - 44,2200,Non-Danish,Never married,1
 143,"Nguyen, Justin",Male,18 - 34,2100,Non-Danish,Married/separated,1
 144,"Truefeather, Alyssa",Female,35 - 44,2400,Non-Danish,Never married,1
-145,"Echerivel, Xai",Male,18 - 34,2100,Non-Danish,Never married,2
 146,"Ragona, Portia",Female,18 - 34,2300,Non-Danish,Never married,1
 147,"Binder, Beau",Female,18 - 34,2300,Non-Danish,Married/separated,1
 148,"Haas, Bobby",Female,18 - 34,2200,Non-Danish,Married/separated,1
 149,"Cho, Brandon",Male,18 - 34,2200,Non-Danish,Never married,1
-150,"Haro, Dominic",Male,18 - 34,2200,Non-Danish,Never married,2
 151,"Rodriguez, Yasmine",Female,18 - 34,2100,Non-Danish,Never married,1
 152,"Amaya, Christian",Male,35 - 44,2300,Non-Danish,Never married,1
 153,"Halaseh, Louis",Male,35 - 44,2200,Non-Danish,Never married,1
-154,"Tom, Julie",Female,18 - 34,2100,Non-Danish,Never married,2
-155,"Hailemicael, Keleshia",Female,18 - 34,2300,Non-Danish,Married/separated,2
 156,"el-Younis, Shaamila",Female,18 - 34,2100,Non-Danish,Never married,1
 157,"al-Bacho, Husain",Male,18 - 34,2400,Non-Danish,Married/separated,1
-158,"Hinton, L'Keisha",Female,18 - 34,2100,Non-Danish,Never married,2
 159,"Maudlin, Stefen",Male,18 - 34,2300,Non-Danish,Never married,1
 160,"Fikes, Dallas",Male,18 - 34,2300,Non-Danish,Never married,1
 161,"Valadez, Juan Carlos",Male,35 - 44,2200,Non-Danish,Married/separated,1
 162,"Hayden, Thomas",Male,18 - 34,2200,Non-Danish,Never married,1
 163,"Chase, Hop",Male,18 - 34,2100,Non-Danish,Never married,1
 164,"Rodriquez, Pedro",Male,35 - 44,2300,Non-Danish,Never married,1
-165,"al-Zamani, Salaah",Male,35 - 44,2400,Non-Danish,Never married,2
-166,"el-Mina, Aarif",Male,18 - 34,2100,Non-Danish,Married/separated,2
 167,"Koehn, Chirag",Male,35 - 44,2400,Non-Danish,Never married,1
 168,"Drennan, Jordyn",Female,18 - 34,2100,Non-Danish,Never married,1
 169,"Melonas, Morgan",Female,35 - 44,2200,Non-Danish,Never married,1
@@ -173,12 +125,10 @@
 171,"el-Younis, Naseem",Male,18 - 34,2200,Non-Danish,Never married,1
 172,"Pavek, Sean",Male,35 - 44,2300,Non-Danish,Never married,1
 173,"al-Sayed, Thamra",Female,18 - 34,2200,Non-Danish,Married/separated,1
-174,"al-Pashia, Subhi",Male,18 - 34,2100,Non-Danish,Never married,2
 175,"Le, Victoriya",Female,35 - 44,2200,Non-Danish,Married/separated,1
 176,"Richard, Sarah",Female,18 - 34,2200,Non-Danish,Never married,1
 177,"Cook, Shayne",Male,18 - 34,2300,Non-Danish,Never married,1
 178,"el-Jama, Shaaheen",Male,35 - 44,2100,Non-Danish,Married/separated,1
-179,"el-Abid, Mashal",Male,35 - 44,2200,Non-Danish,Never married,2
 180,"al-Chahine, Abbaas",Male,35 - 44,2100,Non-Danish,Married/separated,1
 181,"Johnson, Chastaey",Female,35 - 44,2400,Non-Danish,Married/separated,1
 182,"Croft, Chelsey",Female,45 - 54,2400,Non-Danish,Married/separated,1
@@ -188,26 +138,16 @@
 186,"Mcwade, Sandra",Female,35 - 44,2100,Non-Danish,Never married,1
 187,"Cody, Ramiro",Male,45 - 54,2200,Non-Danish,Married/separated,1
 188,"Butler, Sania",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,1
-189,"Nguyen, Donald",Male,45 - 54,2300,Non-Danish,Married/separated,2
-190,"Parks, Day-Vion",Male,45 - 54,2400,Non-Danish,Married/separated,2
 191,"Nelson, Aric",Male,35 - 44,2100,Non-Danish,Married/separated,1
 192,"el-Javed, Ghaali",Male,35 - 44,2400,Non-Danish,Never married,1
 193,"al-Alli, Ghaaliba",Female,35 - 44,2100,Non-Danish,Married/separated,1
-194,"al-Saleem, Shafaaa",Female,35 - 44,2300,Non-Danish,Married/separated,2
-195,"el-Elamin, Raamiz",Male,35 - 44,2100,Non-Danish,Never married,2
-196,"Turner, Kimberly",Female,45 - 54,2400,Non-Danish,Never married,2
 197,"Lee, Andrew",Male,35 - 44,2100,Non-Danish,Never married,1
 198,"Sisneros, Alex",Male,35 - 44,2200,Non-Danish,Never married,1
-199,"al-Amara, Uthmaa N",Male,35 - 44,2300,Non-Danish,Widowed / Divorced,2
 200,"Huynh, Chan Young",Male,35 - 44,2200,Non-Danish,Never married,1
 201,"Kirkpatrick, Tarron",Male,45 - 54,2200,Non-Danish,Never married,1
-202,"Baasch, Joshua",Male,45 - 54,2100,Non-Danish,Never married,2
 203,"Van, Brandon",Male,45 - 54,2300,Non-Danish,Married/separated,1
 204,"Cordova, Jose",Male,35 - 44,2100,Non-Danish,Married/separated,1
-205,"Yang, Jacob",Male,35 - 44,2300,Non-Danish,Married/separated,2
-206,"Shells, Adam",Male,35 - 44,2300,Non-Danish,Married/separated,2
 207,"Guill, Alyvia",Female,35 - 44,2400,Non-Danish,Never married,1
-208,"al-Nasr, Fikri",Male,35 - 44,2400,Non-Danish,Never married,2
 209,"el-Anwar, Abdullah",Male,35 - 44,2100,Non-Danish,Married/separated,1
 210,"Imam, Morgan",Female,45 - 54,2100,Non-Danish,Married/separated,1
 211,"Starr, Shanelle",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,1
@@ -216,46 +156,32 @@
 214,"el-Saah, Ghuzaila",Female,35 - 44,2300,Non-Danish,Married/separated,1
 215,"Olivas, Chandler",Female,35 - 44,2300,Non-Danish,Married/separated,1
 216,"Vasquez, Sadie",Female,45 - 54,2300,Non-Danish,Married/separated,1
-217,"Cordova, Tyler",Male,45 - 54,2400,Non-Danish,Never married,2
-218,"Wu, Emma",Female,35 - 44,2100,Non-Danish,Never married,2
 219,"al-Sharif, Zaamil",Male,35 - 44,2400,Non-Danish,Never married,1
-220,"Whiteskunk, Gavin",Male,35 - 44,2300,Non-Danish,Never married,2
 221,"Simanjuntak, Morgan",Male,35 - 44,2400,Non-Danish,Never married,1
 222,"Castro, Miriam",Female,45 - 54,2400,Non-Danish,Never married,1
 223,"Smith, Kelvin",Male,45 - 54,2300,Non-Danish,Never married,1
 224,"Sanchez, Jade",Female,35 - 44,2300,Non-Danish,Married/separated,1
 225,"Nguyen, Joseph",Male,45 - 54,2200,Non-Danish,Never married,1
-226,"Washington, Joanna",Female,45 - 54,2100,Non-Danish,Married/separated,2
 227,"Santoro, Victoria",Female,35 - 44,2100,Non-Danish,Married/separated,1
 228,"Reyes-Perez, Miguel",Male,35 - 44,2100,Non-Danish,Married/separated,1
-229,"Vallejos, Dominique",Female,35 - 44,2200,Non-Danish,Never married,2
-230,"Marshall, Robert",Male,35 - 44,2300,Non-Danish,Never married,2
 231,"Scott, David",Male,35 - 44,2400,Non-Danish,Married/separated,1
-232,"Jones Potts, Misha",Female,35 - 44,2300,Non-Danish,Never married,2
 233,"Rambo, Samuel",Male,35 - 44,2300,Non-Danish,Never married,1
 234,"Bear, Toni",Female,35 - 44,2300,Non-Danish,Widowed / Divorced,1
 235,"Buhr, Jordan",Female,45 - 54,2400,Non-Danish,Never married,1
 236,"el-Tahir, Abdul Noor",Male,35 - 44,2100,Non-Danish,Married/separated,1
 237,"Robinson, Aaron",Male,35 - 44,2100,Non-Danish,Never married,1
-238,"el-Khalaf, Atheer",Female,35 - 44,2400,Non-Danish,Married/separated,2
-239,"Eppard, Michaela",Female,35 - 44,2100,Non-Danish,Never married,2
 240,"Lucero, Blake",Male,45 - 54,2400,Non-Danish,Married/separated,1
 241,"Tarar, Jacob",Male,35 - 44,2200,Non-Danish,Never married,1
 242,"el-Idris, Daifallah",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,1
-243,"Wingo, Kendell",Female,45 - 54,2300,Non-Danish,Married/separated,2
 244,"Carter, Caitlin",Female,45 - 54,2400,Non-Danish,Never married,1
 245,"Hall, Stephanie",Female,35 - 44,2100,Non-Danish,Never married,1
-246,"Mihalovic, Christian",Male,35 - 44,2300,Non-Danish,Married/separated,2
 247,"Perez, Rikeisha",Female,35 - 44,2400,Non-Danish,Married/separated,1
 248,"Barker, Shawn",Male,45 - 54,2400,Non-Danish,Married/separated,1
 249,"Mcfall, Jazmyn",Female,45 - 54,2400,Non-Danish,Married/separated,1
 250,"Hansen, James",Male,45 - 54,2300,Non-Danish,Never married,1
 251,"Wells, Janessa",Female,35 - 44,2200,Non-Danish,Married/separated,1
-252,"Brittmon, Chace",Male,45 - 54,2200,Non-Danish,Married/separated,2
-253,"al-Sharaf, Abdul Wahaab",Male,35 - 44,2100,Non-Danish,Never married,2
 254,"Howard, Tanisa",Female,35 - 44,2400,Non-Danish,Never married,1
 255,"Garduno, Brenda",Female,35 - 44,2100,Non-Danish,Married/separated,1
-256,"Acosta, Brandon",Male,35 - 44,2400,Non-Danish,Married/separated,2
 257,"Garcia, Jesus",Male,35 - 44,2300,Non-Danish,Never married,1
 258,"Jones, Daryl",Male,35 - 44,2100,Non-Danish,Married/separated,1
 259,"Jackson, Brooks",Male,35 - 44,2300,Non-Danish,Married/separated,1
@@ -264,14 +190,12 @@
 262,"al-Hatem, Hamaama",Female,35 - 44,2400,Non-Danish,Never married,1
 263,"Cruz, Shania",Female,45 - 54,2100,Non-Danish,Never married,1
 264,"Wu, Jason",Male,35 - 44,2100,Non-Danish,Never married,1
-265,"Fisher, Anna",Female,45 - 54,2300,Non-Danish,Never married,2
 266,"Westbrook, Jacob",Male,35 - 44,2100,Non-Danish,Never married,1
 267,"Dedrick, William",Male,45 - 54,2400,Non-Danish,Never married,1
 268,"al-Farooqui, Abdul Jabbaar",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,1
 269,"Berube, Ty",Male,35 - 44,2300,Non-Danish,Never married,1
 270,"al-Karim, Arwa",Female,35 - 44,2400,Non-Danish,Married/separated,1
 271,"Wengryn, Lorna",Female,35 - 44,2300,Non-Danish,Never married,1
-272,"Funk, Chasity",Female,45 - 54,2400,Non-Danish,Married/separated,2
 273,"Peevy, Daijah",Female,35 - 44,2100,Non-Danish,Married/separated,1
 274,"George, Malia",Female,45 - 54,2100,Non-Danish,Married/separated,1
 275,"Ly, Naima",Female,35 - 44,2400,Non-Danish,Married/separated,1
@@ -280,30 +204,24 @@
 278,"Gonzalez-Chacon, Marcos",Male,45 - 54,2200,Non-Danish,Never married,1
 279,"al-Shakoor, Bilaal",Male,35 - 44,2300,Non-Danish,Widowed / Divorced,1
 280,"Vazquez, Asencionita",Female,35 - 44,2100,Non-Danish,Never married,1
-281,"Green, Mercedes",Female,35 - 44,2200,Non-Danish,Married/separated,2
 282,"Eppard, Danny",Male,35 - 44,2200,Non-Danish,Widowed / Divorced,1
 283,"Melgar, Luis",Male,35 - 44,2300,Non-Danish,Married/separated,1
 284,"el-Mona, Zaaid",Male,35 - 44,2200,Non-Danish,Never married,1
-285,"Gottlinger, Jordan",Female,45 - 54,2200,Non-Danish,Married/separated,2
 286,"Smith, Cameron",Male,35 - 44,2200,Non-Danish,Married/separated,1
 287,"Carbajal, Kirk",Male,35 - 44,2300,Non-Danish,Married/separated,1
 288,"el-Rahimi, Saami",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,1
-289,"Huwa, Catherine",Female,45 - 54,2300,Non-Danish,Married/separated,2
 290,"Shells, Mustafa",Male,35 - 44,2400,Non-Danish,Married/separated,1
 291,"Tracy, Katelynn",Female,35 - 44,2300,Non-Danish,Widowed / Divorced,1
 292,"Mcclellan, Justine",Female,35 - 44,2200,Non-Danish,Married/separated,1
 293,"Rea, Leander",Male,35 - 44,2400,Non-Danish,Never married,1
-294,"Paulson, Jordan",Male,35 - 44,2400,Non-Danish,Never married,2
 295,"al-Hashemi, Aakif",Male,35 - 44,2100,Non-Danish,Widowed / Divorced,1
 296,"Siddiqui, Ethan",Male,35 - 44,2400,Non-Danish,Married/separated,1
-297,"Dollard, Andrew",Male,35 - 44,2200,Non-Danish,Widowed / Divorced,2
 298,"Garcia, Justice",Male,45 - 54,2300,Non-Danish,Married/separated,1
 299,"Griner, Jose",Male,45 - 54,2400,Non-Danish,Married/separated,1
 300,"Carroll, Emily",Female,35 - 44,2100,Non-Danish,Widowed / Divorced,1
 301,"Currin, Zeth",Male,45 - 54,2400,Non-Danish,Never married,1
 302,"al-Mohamad, Saalim",Male,35 - 44,2200,Non-Danish,Never married,1
 303,"Pratt, Sasha",Female,35 - 44,2200,Non-Danish,Married/separated,1
-304,"al-Azizi, Suhaad",Female,45 - 54,2200,Non-Danish,Never married,2
 305,"Jernigan, Rebekah",Female,35 - 44,2200,Non-Danish,Never married,1
 306,"Poole, Kayla",Female,35 - 44,2400,Non-Danish,Never married,1
 307,"Reed, Robin",Male,55 - 64,2200,Non-Danish,Married/separated,1
@@ -311,52 +229,39 @@
 309,"Harville, Ayana",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,1
 310,"White, Jamez",Male,55 - 64,2200,Non-Danish,Married/separated,1
 311,"Shahi, Arvind",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,1
-312,"Maas, Tiffanie",Female,45 - 54,2300,Non-Danish,Married/separated,2
-313,"Buchler, Kelsey",Female,55 - 64,2100,Non-Danish,Married/separated,2
 314,"Tunnell, Raven",Female,45 - 54,2400,Non-Danish,Married/separated,1
 315,"Watson, Qwajae",Female,45 - 54,2400,Non-Danish,Married/separated,1
-316,"Long, Sharai",Female,55 - 64,2400,Non-Danish,Married/separated,2
 317,"el-Obeid, Huda",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,1
 318,"Pender, John",Male,45 - 54,2100,Non-Danish,Widowed / Divorced,1
 319,"Rodriguez, Michael",Male,45 - 54,2300,Non-Danish,Married/separated,1
 320,"Cagle, Cheyenne",Female,55 - 64,2400,Non-Danish,Never married,1
 321,"Striplin, Marcus",Male,45 - 54,2100,Non-Danish,Married/separated,1
-322,"Paz-Stokes, Lester",Male,45 - 54,2400,Non-Danish,Never married,2
 323,"Blacker, Brandan",Male,55 - 64,2200,Non-Danish,Married/separated,1
 324,"Byers, Leroy",Male,45 - 54,2400,Non-Danish,Married/separated,1
-325,"Arguello, Elyssa",Female,55 - 64,2400,Non-Danish,Married/separated,2
 326,"Wetmore, Annastasia",Female,55 - 64,2200,Non-Danish,Married/separated,1
 327,"Carter, Nathan",Male,55 - 64,2200,Non-Danish,Married/separated,1
 328,"Chavez, Carly",Female,45 - 54,2200,Non-Danish,Married/separated,1
 329,"Lam, Sylvie",Female,45 - 54,2100,Non-Danish,Married/separated,1
 330,"Moruzzi, Trevor",Male,55 - 64,2400,Non-Danish,Married/separated,1
-331,"Mccabe, Joshua",Male,45 - 54,2200,Non-Danish,Married/separated,2
 332,"Almazbek, Quinton",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,1
 333,"el-Salloum, Adham",Male,45 - 54,2400,Non-Danish,Married/separated,1
-334,"Nguyen, David",Male,55 - 64,2200,Non-Danish,Married/separated,2
 335,"Medina, William",Male,55 - 64,2200,Non-Danish,Married/separated,1
 336,"Nzabanita, Christen",Male,45 - 54,2400,Non-Danish,Never married,1
 337,"Sato, Margo",Female,45 - 54,2400,Non-Danish,Never married,1
-338,"Rodriguez, Jareth",Male,45 - 54,2300,Non-Danish,Never married,2
 339,"Poghosyan, Melvin",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,1
 340,"Warren, Alyvia",Female,55 - 64,2400,Non-Danish,Married/separated,1
-341,"Goggins, Mckenzie",Female,45 - 54,2300,Non-Danish,Married/separated,2
 342,"Rayle, Christopher",Male,55 - 64,2200,Non-Danish,Married/separated,1
-343,"Ammerman Cusack, Calvin Jed",Male,55 - 64,2400,Non-Danish,Married/separated,2
 344,"Casarez, Isaiah",Male,45 - 54,2100,Non-Danish,Never married,1
 345,"Johnson, Brittany",Female,45 - 54,2200,Non-Danish,Married/separated,1
 346,"Emrich, Amber",Female,45 - 54,2400,Non-Danish,Married/separated,1
-347,"Brassard, Monaca",Female,45 - 54,2100,Non-Danish,Married/separated,2
 348,"Padua, Ntxuam",Male,55 - 64,2100,Non-Danish,Never married,1
 349,"Lao, Julia",Female,45 - 54,2200,Non-Danish,Never married,1
-350,"Young, Ricky",Male,55 - 64,2400,Non-Danish,Married/separated,2
 351,"Medina, Jorge",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,1
 352,"Sobeck, Antoinette",Female,45 - 54,2400,Non-Danish,Married/separated,1
 353,"el-Samra, Abyad",Male,45 - 54,2300,Non-Danish,Never married,1
 354,"Feng, Sara",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,1
 355,"Sam, Alyssia",Female,45 - 54,2200,Non-Danish,Married/separated,1
 356,"Agustin, Uri",Male,55 - 64,2400,Non-Danish,Married/separated,1
-357,"Lucero, Natalee",Female,45 - 54,2200,Non-Danish,Married/separated,2
 358,"al-Bashir, Haazim",Male,45 - 54,2100,Non-Danish,Married/separated,1
 359,"Burgdorff, Ryan",Male,55 - 64,2400,Non-Danish,Never married,1
 360,"Asuncion, Ravindra",Male,55 - 64,2400,Non-Danish,Never married,1
@@ -364,11 +269,9 @@
 362,"Russell, Aaliyah",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,1
 363,"Sozi, Christian",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,1
 364,"Stoltzfus, Scott",Male,55 - 64,2300,Non-Danish,Married/separated,1
-365,"el-Ismail, Mudrika",Female,55 - 64,2300,Non-Danish,Married/separated,2
 366,"Chau, Dongjoo",Female,55 - 64,2200,Non-Danish,Married/separated,1
 367,"el-Samara, Saif",Male,45 - 54,2300,Non-Danish,Never married,1
 368,"Jacobo, Reyna",Female,45 - 54,2400,Non-Danish,Never married,1
-369,"Nagel, Andrew",Male,45 - 54,2400,Non-Danish,Never married,2
 370,"Maddux, Steven",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,1
 371,"al-Abdulla, Abdul Jabbaar",Male,55 - 64,2300,Non-Danish,Married/separated,1
 372,"Chacon Anchondo, Ismael",Male,45 - 54,2200,Non-Danish,Married/separated,1
@@ -377,39 +280,26 @@
 375,"Guill, Luanne",Female,45 - 54,2200,Non-Danish,Never married,1
 376,"Oelschlager, Tanner",Female,45 - 54,2400,Non-Danish,Married/separated,1
 377,"Shinault, Sunnique",Female,45 - 54,2400,Non-Danish,Married/separated,1
-378,"Clarke, David",Male,45 - 54,2200,Non-Danish,Married/separated,2
-379,"Baty, Tre",Male,55 - 64,2200,Non-Danish,Married/separated,2
-380,"Rodriguez, John",Male,45 - 54,2300,Non-Danish,Never married,2
 381,"Dean, Caley",Female,45 - 54,2400,Non-Danish,Married/separated,1
 382,"el-Malik, Mu,Aawiya",Male,55 - 64,2400,Non-Danish,Married/separated,1
 383,"Smith, Amanda",Female,45 - 54,2400,Non-Danish,Married/separated,1
 384,"Valadez, Lorena",Female,45 - 54,2200,Non-Danish,Married/separated,1
 385,"el-Khalili, Maa'iz",Male,45 - 54,2200,Non-Danish,Married/separated,1
 386,"Jennings, Rashawn",Male,45 - 54,2300,Non-Danish,Married/separated,1
-387,"Arteaga, Haleigh",Female,55 - 64,2200,Non-Danish,Married/separated,2
 388,"Brown, Ricky",Male,45 - 54,2300,Non-Danish,Never married,1
-389,"Bolstad, Quynn",Male,55 - 64,2100,Non-Danish,Married/separated,2
 390,"Ragland, Felicia",Female,45 - 54,2300,Non-Danish,Married/separated,1
-391,"Tampubolon, Thuong",Female,55 - 64,2400,Non-Danish,Married/separated,2
 392,"Craion, Tyler",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,1
 393,"Shields, Olivia",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,1
 394,"Kitayama, Robinson",Male,45 - 54,2200,Non-Danish,Married/separated,1
-395,"al-Elamin, Dhareef",Male,55 - 64,2100,Non-Danish,Married/separated,2
 396,"Sua, Brigitte",Female,45 - 54,2200,Non-Danish,Married/separated,1
 397,"Wattley, Brittany",Female,45 - 54,2300,Non-Danish,Married/separated,1
-398,"Butler, Kendyl",Male,45 - 54,2300,Non-Danish,Never married,2
 399,"Simon, Arielle",Female,45 - 54,2200,Non-Danish,Married/separated,1
 400,"Terrazas Zavala, Michelle",Female,45 - 54,2200,Non-Danish,Married/separated,1
 401,"Osmanovic, Stephanie",Female,45 - 54,2300,Non-Danish,Married/separated,1
 402,"Adu, Kyra",Female,55 - 64,2200,Non-Danish,Married/separated,1
-403,"Sisneros, Isaac",Male,45 - 54,2300,Non-Danish,Married/separated,2
-404,"Harper, Hannah",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,2
 405,"Martinez, Israel",Male,55 - 64,2400,Non-Danish,Never married,1
-406,"el-Shams, Ulyaa",Female,55 - 64,2300,Non-Danish,Never married,2
 407,"el-Salam, Noora",Female,45 - 54,2300,Non-Danish,Married/separated,1
-408,"Thurimella, Shawn",Male,55 - 64,2400,Non-Danish,Never married,2
 409,"Cohen, Mikayla",Female,45 - 54,2300,Non-Danish,Married/separated,1
-410,"Ottaway, Shelby",Female,45 - 54,2300,Non-Danish,Married/separated,2
 411,"Motsenbocker, Krista",Female,65+,2200,Non-Danish,Widowed / Divorced,1
 412,"Garza, Dion",Male,65+,2300,Non-Danish,Never married,1
 413,"Ramirez, Karla",Female,65+,2300,Non-Danish,Never married,1
@@ -417,28 +307,19 @@
 415,"el-Jafri, Muzaina",Female,55 - 64,2400,Non-Danish,Never married,1
 416,"Davis, Dominick",Male,55 - 64,2200,Non-Danish,Married/separated,1
 417,"Boyd, Zackarie",Male,55 - 64,2400,Non-Danish,Never married,1
-418,"Arviso, Keiley",Female,55 - 64,2300,Non-Danish,Married/separated,2
 419,"Mcelwain, Tanner",Male,65+,2100,Non-Danish,Widowed / Divorced,1
 420,"Taylor, Jasmine",Female,55 - 64,2400,Non-Danish,Married/separated,1
 421,"Mccullough, Sarina",Female,65+,2300,Non-Danish,Married/separated,1
 422,"Lor, Annie",Female,55 - 64,2300,Non-Danish,Married/separated,1
-423,"el-Anwar, Naasiruddeen",Male,55 - 64,2300,Non-Danish,Married/separated,2
-424,"Wilson, Nina",Female,55 - 64,2300,Non-Danish,Never married,2
 425,"al-Sultan, Zaahid",Male,55 - 64,2300,Non-Danish,Never married,1
 426,"al-Satter, Shakeela",Female,55 - 64,2300,Non-Danish,Never married,1
-427,"el-Rahaim, Fahmi",Male,55 - 64,2400,Non-Danish,Married/separated,2
 428,"Karakash, Tyler",Male,65+,2300,Non-Danish,Married/separated,1
-429,"Hicar, Kristin",Female,55 - 64,2300,Non-Danish,Never married,2
 430,"Cheng, John",Male,55 - 64,2200,Non-Danish,Married/separated,1
 431,"el-Saba, Ismaeel",Male,55 - 64,2400,Non-Danish,Never married,1
-432,"Miyazawa, Sweta",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 433,"Mathis-Downing II, Timothee",Male,65+,2400,Non-Danish,Married/separated,1
-434,"Murray, Jessica",Female,55 - 64,2400,Non-Danish,Married/separated,2
 435,"Whiteman, Taylor",Female,55 - 64,2400,Non-Danish,Married/separated,1
 436,"Oster, Michael",Male,55 - 64,2400,Non-Danish,Never married,1
 437,"Pimentel, Ernest",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,1
-438,"Robles, Diego",Male,55 - 64,2400,Non-Danish,Married/separated,2
-439,"Vigil, Rodrigo",Male,55 - 64,2400,Non-Danish,Married/separated,2
 440,"Nelson, Alexandrina",Female,55 - 64,2400,Non-Danish,Married/separated,1
 441,"Vijayasarathy, Kristi",Female,55 - 64,2400,Non-Danish,Married/separated,1
 442,"Ford, Ethan",Male,65+,2400,Non-Danish,Married/separated,1
@@ -446,68 +327,43 @@
 444,"Pitcher, Breanne",Female,55 - 64,2200,Non-Danish,Widowed / Divorced,1
 445,"el-Momin, Ma,Roof",Male,55 - 64,2300,Non-Danish,Married/separated,1
 446,"Mcgee, Michelle",Female,55 - 64,2100,Non-Danish,Never married,1
-447,"Herd, Seth",Male,55 - 64,2200,Non-Danish,Married/separated,2
 448,"Acosta-Orozco, Dominic",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,1
-449,"Rademacher, Patrick",Male,55 - 64,2300,Non-Danish,Never married,2
 450,"Salazar, Sierra",Female,65+,2300,Non-Danish,Married/separated,1
 451,"Thomas, Mikael",Male,55 - 64,2200,Non-Danish,Never married,1
 452,"el-Ishak, Hadbaaa",Female,55 - 64,2300,Non-Danish,Never married,1
-453,"Baca, Genesis",Female,55 - 64,2200,Non-Danish,Never married,2
-454,"Leyva, Lesley",Female,55 - 64,2400,Non-Danish,Married/separated,2
 455,"Cha, Peter",Male,65+,2400,Non-Danish,Married/separated,1
 456,"al-Dallal, Bishr",Male,65+,2200,Non-Danish,Married/separated,1
 457,"Maileoi, Tyler",Male,55 - 64,2300,Non-Danish,Married/separated,1
 458,"Ware, Rashawn",Male,55 - 64,2200,Non-Danish,Married/separated,1
-459,"Burnett, Alec",Male,65+,2300,Non-Danish,Never married,2
-460,"Benson, Alyssa",Female,55 - 64,2200,Non-Danish,Married/separated,2
 461,"el-Malik, Suhaila",Female,55 - 64,2200,Non-Danish,Married/separated,1
 462,"Graziano, Dylan",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,1
-463,"Ohlig, Kashmir",Female,55 - 64,2300,Non-Danish,Married/separated,2
-464,"al-Lodi, Saaliha",Female,65+,2100,Non-Danish,Married/separated,2
-465,"Pinela, Daniel",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,2
-466,"Starck, Brooklynn",Female,65+,2400,Non-Danish,Married/separated,2
-467,"al-Moustafa, Jaasim",Male,65+,2400,Non-Danish,Married/separated,2
 468,"el-Shad, Izzaddeen",Male,55 - 64,2300,Non-Danish,Married/separated,1
 469,"Breed, My",Female,65+,2300,Non-Danish,Never married,1
-470,"Cruze, Dwayne",Male,65+,2400,Non-Danish,Married/separated,2
 471,"al-Abdoo, Naseefa",Female,55 - 64,2200,Non-Danish,Married/separated,1
 472,"Sumual, Casey",Male,65+,2400,Non-Danish,Married/separated,1
 473,"Christensen, Evan",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,1
-474,"Godwin, Alexandra",Female,65+,2400,Non-Danish,Widowed / Divorced,2
-475,"Left Hand Bull, Aaron",Male,55 - 64,2200,Non-Danish,Married/separated,2
 476,"el-Aboud, Misbaah",Female,55 - 64,2200,Non-Danish,Never married,1
 477,"Thompson, Christopher",Male,55 - 64,2300,Non-Danish,Married/separated,1
 478,"Evangelista, Mato Ty",Male,55 - 64,2400,Non-Danish,Married/separated,1
 479,"al-Guler, Madeeha",Female,65+,2200,Non-Danish,Married/separated,1
 480,"Kim, Serena",Female,55 - 64,2200,Non-Danish,Married/separated,1
-481,"Ramzy, Samba",Male,55 - 64,2300,Non-Danish,Never married,2
 482,"Howard, Destiny",Female,55 - 64,2300,Non-Danish,Never married,1
-483,"Wilhelm, Khashkhuu",Male,55 - 64,2400,Non-Danish,Married/separated,2
 484,"Sisson, Viviana",Female,65+,2400,Non-Danish,Widowed / Divorced,1
 485,"Massey, Firice",Male,65+,2300,Non-Danish,Married/separated,1
 486,"Elliott, Miles",Male,65+,2300,Non-Danish,Married/separated,1
-487,"Casanova, Blanca",Female,65+,2200,Non-Danish,Married/separated,2
-488,"Hering, Lindsey",Female,65+,2300,Non-Danish,Married/separated,2
 489,"James, Alejandro",Male,65+,2400,Non-Danish,Married/separated,1
 490,"Stute, Michael",Male,65+,2400,Non-Danish,Widowed / Divorced,1
 491,"Rodriguez, Andrew",Male,65+,2400,Non-Danish,Widowed / Divorced,1
 492,"Swimmer, Sylis",Male,65+,2200,Non-Danish,Married/separated,1
 493,"Engstrom, Benjamin",Male,65+,2200,Non-Danish,Widowed / Divorced,1
-494,"Morales-Munoz, Brianda",Female,65+,2400,Non-Danish,Widowed / Divorced,2
 495,"Bernal-Esquivel, Juan",Male,65+,2400,Non-Danish,Married/separated,1
 496,"Andrade, Annakaren",Female,65+,2300,Non-Danish,Widowed / Divorced,1
-497,"Khoshnam, Kasinee",Female,65+,2400,Non-Danish,Never married,2
-498,"Prisbrey, Makaila",Female,65+,2400,Non-Danish,Married/separated,2
-499,"Costa, Taylor",Male,65+,2400,Non-Danish,Widowed / Divorced,2
 500,"Mcintyre, Christopher",Male,65+,2400,Non-Danish,Married/separated,1
 501,"Martinez, Liliana",Female,65+,2300,Non-Danish,Married/separated,1
 502,"al-Halaby, Mudrik",Male,65+,2200,Non-Danish,Married/separated,1
-503,"Rollins-Niblet, Quincy",Male,65+,2200,Non-Danish,Married/separated,2
 504,"Dhakal, David",Male,65+,2300,Non-Danish,Married/separated,1
 505,"Rodriguez, Caleb",Male,65+,2200,Non-Danish,Married/separated,1
 506,"Washington, Shemar",Male,65+,2200,Non-Danish,Widowed / Divorced,1
-507,"Bueno, Hayden",Male,65+,2200,Non-Danish,Married/separated,2
-508,"Cruz, Michael",Male,65+,2400,Non-Danish,Married/separated,2
 509,"Dawson, Matthew",Male,65+,2400,Non-Danish,Married/separated,1
 510,"Currie, Brayden",Male,65+,2300,Non-Danish,Widowed / Divorced,1
 511,"Rutledge, Tyler",Male,65+,2300,Non-Danish,Widowed / Divorced,1
@@ -515,34 +371,24 @@
 513,"el-Yousuf, Saami",Male,65+,2200,Non-Danish,Married/separated,1
 514,"el-Sani, Hamdaan",Male,65+,2100,Non-Danish,Married/separated,1
 515,"Molina, Shenoa",Female,65+,2200,Non-Danish,Married/separated,1
-516,"al-Sharaf, Mawzoona",Female,65+,2300,Non-Danish,Married/separated,2
 517,"Mcbryde, Mengyi",Female,65+,2400,Non-Danish,Married/separated,1
 518,"Kola-Kehinde, Barry",Male,65+,2300,Non-Danish,Married/separated,1
-519,"al-Azzi, Kameel",Male,65+,2300,Non-Danish,Married/separated,2
 520,"Gomez, Royce",Male,65+,2100,Non-Danish,Widowed / Divorced,1
 521,"Tse, Neely",Female,65+,2300,Non-Danish,Married/separated,1
 522,"Tovar, Alyssa",Female,65+,2300,Non-Danish,Married/separated,1
-523,"Segura-Meza, Grant",Male,65+,2200,Non-Danish,Married/separated,2
-524,"Lanier, Nathan",Male,65+,2200,Non-Danish,Married/separated,2
 525,"Danvers, Crystal",Female,65+,2400,Non-Danish,Widowed / Divorced,1
 526,"Spires, Jalel",Male,65+,2100,Non-Danish,Widowed / Divorced,1
 527,"Lindholm, Ashley",Female,65+,2400,Non-Danish,Widowed / Divorced,1
 528,"Yglesias, Demitris",Male,65+,2300,Non-Danish,Married/separated,1
 529,"Thornock, Menandez",Male,65+,2100,Non-Danish,Married/separated,1
-530,"el-Jaber, Nassaar",Male,65+,2200,Non-Danish,Married/separated,2
-531,"Windley-Simpson, Jamonika",Female,65+,2400,Non-Danish,Widowed / Divorced,2
-532,"Kim, Nader",Male,65+,2400,Non-Danish,Married/separated,2
 533,"Osman, Biruk",Male,65+,2300,Non-Danish,Widowed / Divorced,1
 534,"Brigham, Michele",Female,65+,2200,Non-Danish,Married/separated,1
 535,"Bender, Mohra",Female,65+,2400,Non-Danish,Married/separated,1
 536,"Flores Chavez, Jonna",Female,65+,2200,Non-Danish,Widowed / Divorced,1
 537,"Villa-Garciapena, Santiago",Male,65+,2400,Non-Danish,Widowed / Divorced,1
 538,"Garcia, Kursh",Male,65+,2200,Non-Danish,Widowed / Divorced,1
-539,"Herrera, Zackieus",Male,65+,2200,Non-Danish,Widowed / Divorced,2
 540,"Barela, Andrew",Male,65+,2400,Non-Danish,Never married,1
 541,"el-Suleiman, Hadeel",Female,65+,2400,Non-Danish,Married/separated,1
-542,"Garcia, Rhemedio",Male,65+,2400,Non-Danish,Widowed / Divorced,2
-543,"Livesay, Jeremy",Male,65+,2400,Non-Danish,Married/separated,2
 544,"Reed, Xavier",Male,65+,2300,Non-Danish,Widowed / Divorced,1
 545,"Mowers, Courtney",Female,65+,2200,Non-Danish,Never married,1
 546,"el-Yousif, Muhyddeen",Male,65+,2200,Non-Danish,Widowed / Divorced,1
@@ -551,7 +397,6 @@
 549,"Grillos, Mackenzie",Female,18 - 34,2100,Non-Danish,Never married,0
 550,"Lontine, Orlando",Male,18 - 34,2100,Non-Danish,Never married,0
 551,"Thompson, Dara",Female,18 - 34,2300,Non-Danish,Never married,0
-552,"Mccowan, Haili",Female,18 - 34,2300,Non-Danish,Never married,2
 553,"Jones, Whitney",Female,18 - 34,2400,Non-Danish,Never married,0
 554,"Snodgrass, Robert",Male,18 - 34,2200,Non-Danish,Married/separated,0
 555,"Miles, Jaila",Female,18 - 34,2400,Non-Danish,Never married,0
@@ -561,56 +406,40 @@
 559,"Lopez, Christopher",Male,18 - 34,2200,Non-Danish,Never married,0
 560,"Williams, Elijah",Male,18 - 34,2400,Non-Danish,Never married,0
 561,"Mattice, Brandi",Female,18 - 34,2200,Non-Danish,Never married,0
-562,"Parsons, Brandon",Male,18 - 34,2100,Non-Danish,Never married,2
 563,"al-Shehadeh, Nawfal",Male,18 - 34,2200,Non-Danish,Never married,0
 564,"Salomon, Ladina",Female,18 - 34,2100,Non-Danish,Never married,0
 565,"Barrett, Heaven",Female,18 - 34,2100,Non-Danish,Never married,0
-566,"Wimberly, Lauren",Female,18 - 34,2300,Non-Danish,Never married,2
 567,"Cisneros, Breanna",Female,18 - 34,2200,Non-Danish,Never married,0
 568,"Diaz, Daryl",Female,18 - 34,2100,Non-Danish,Never married,0
-569,"Santee, Angela",Female,18 - 34,2100,Non-Danish,Never married,2
 570,"Hassan, Deanna",Female,18 - 34,2200,Non-Danish,Never married,0
 571,"Kueckelhan, Shelby",Female,18 - 34,2100,Non-Danish,Never married,0
 572,"Guill, Jayden",Male,18 - 34,2100,Non-Danish,Never married,0
-573,"al-Nasser, Fawzaana",Female,18 - 34,2100,Non-Danish,Never married,2
 574,"Rodriguez, Mckenzie",Female,18 - 34,2300,Non-Danish,Never married,0
-575,"Rodriguez, Marissa",Female,18 - 34,2100,Non-Danish,Never married,2
 576,"Reynolds, Briana",Female,18 - 34,2300,Non-Danish,Never married,0
-577,"el-Hussain, Ghaada",Female,18 - 34,2100,Non-Danish,Never married,2
-578,"Garcia, Kaysha",Female,18 - 34,2100,Non-Danish,Never married,2
 579,"al-Siddiqi, Aaisha",Female,18 - 34,2200,Non-Danish,Never married,0
-580,"Brauher, Holly",Female,18 - 34,2200,Non-Danish,Never married,2
 581,"Nunnaley, Destini",Female,18 - 34,2400,Non-Danish,Never married,0
-582,"Worley, Bibha",Female,18 - 34,2100,Non-Danish,Never married,2
-583,"Loran, Sensel",Female,18 - 34,2300,Non-Danish,Never married,2
 584,"Xiong, Simon",Male,18 - 34,2300,Non-Danish,Never married,0
 585,"Hollis, Malachi",Male,18 - 34,2300,Non-Danish,Never married,0
-586,"Applehans, Tinisha",Female,18 - 34,2300,Non-Danish,Never married,2
 587,"Lucas, Donovon",Male,18 - 34,2300,Non-Danish,Never married,0
 588,"Hernandez, Valeria",Female,18 - 34,2100,Non-Danish,Never married,0
 589,"el-Mohiuddin, Khaleel",Male,18 - 34,2200,Non-Danish,Never married,0
-590,"Banchongchith, Kendrick",Male,18 - 34,2300,Non-Danish,Never married,2
 591,"Girmay, Michaela",Female,18 - 34,2400,Non-Danish,Never married,0
 592,"Aragon, Marco",Male,18 - 34,2300,Non-Danish,Never married,0
 593,"Sena, Stephen",Male,18 - 34,2400,Non-Danish,Never married,0
 594,"Estrada, Esperanza",Female,18 - 34,2200,Non-Danish,Never married,0
 595,"Johnson, Jasmine",Female,18 - 34,2300,Non-Danish,Never married,0
-596,"Ewbank, Abigail",Female,18 - 34,2100,Non-Danish,Never married,2
 597,"Sue, Lydia",Female,18 - 34,2100,Non-Danish,Never married,0
 598,"Roosa, Caroline",Female,18 - 34,2100,Non-Danish,Never married,0
 599,"Dyer, Kaili",Female,18 - 34,2100,Non-Danish,Never married,0
 600,"Kiehlbauch, Aleksei",Male,18 - 34,2100,Non-Danish,Never married,0
-601,"Powell, Vincent",Male,18 - 34,2100,Non-Danish,Never married,2
 602,"el-Mohammad, Masroora",Female,18 - 34,2300,Non-Danish,Never married,0
 603,"Milton, Nicolette",Female,18 - 34,2100,Non-Danish,Never married,0
 604,"Canfield, Tucker",Male,18 - 34,2100,Non-Danish,Never married,0
 605,"Pascale, Philip",Male,18 - 34,2200,Non-Danish,Never married,0
 606,"Woodberry, Danijah",Female,18 - 34,2400,Non-Danish,Never married,0
 607,"Anderson, Alexander",Male,18 - 34,2100,Non-Danish,Married/separated,0
-608,"Lara, Cristiano",Male,18 - 34,2100,Non-Danish,Never married,2
 609,"al-Mansouri, Rasheeq",Male,18 - 34,2200,Non-Danish,Never married,0
 610,"el-Abbas, Najeem",Male,18 - 34,2300,Non-Danish,Never married,0
-611,"Myles, Quincy",Male,18 - 34,2200,Non-Danish,Never married,2
 612,"el-Zaman, Qamraaa",Female,18 - 34,2300,Non-Danish,Never married,0
 613,"Chavez, Hector",Male,18 - 34,2100,Non-Danish,Never married,0
 614,"Alvarez, Shantal",Female,18 - 34,2100,Non-Danish,Never married,0
@@ -624,9 +453,7 @@
 622,"Khanthavong, Julian",Male,18 - 34,2100,Non-Danish,Never married,0
 623,"Do, Danielle",Female,18 - 34,2100,Non-Danish,Never married,0
 624,"Lynch, Ashton",Female,18 - 34,2100,Non-Danish,Never married,0
-625,"Mosley, Anthony",Male,18 - 34,2100,Non-Danish,Never married,2
 626,"al-Salim, Asad",Male,18 - 34,2100,Non-Danish,Never married,0
-627,"Storaci, Riley",Female,18 - 34,2300,Non-Danish,Never married,2
 628,"Sproul, Michaela",Female,18 - 34,2300,Non-Danish,Married/separated,0
 629,"el-Aboud, Wardiyya",Female,18 - 34,2100,Non-Danish,Never married,0
 630,"Leist, Mckina",Female,18 - 34,2100,Non-Danish,Never married,0
@@ -637,38 +464,26 @@
 635,"Vaughn, Stephanie",Female,18 - 34,2100,Non-Danish,Never married,0
 636,"Garner, William",Male,18 - 34,2100,Non-Danish,Never married,0
 637,"Newton, Craig",Male,18 - 34,2200,Non-Danish,Never married,0
-638,"Prom, Kaylee",Female,18 - 34,2100,Non-Danish,Never married,2
 639,"Wang, Amanda",Female,18 - 34,2300,Non-Danish,Never married,0
 640,"Margo, Joseph",Male,18 - 34,2300,Non-Danish,Never married,0
 641,"al-Shaker, Farajallah",Male,18 - 34,2100,Non-Danish,Never married,0
 642,"al-Dia, Ya'eesh",Male,18 - 34,2200,Non-Danish,Never married,0
 643,"al-Sader, Munjid",Male,18 - 34,2100,Non-Danish,Never married,0
-644,"Smith, Andrew",Male,18 - 34,2100,Non-Danish,Never married,2
-645,"Yazzie, Kanae",Female,18 - 34,2400,Non-Danish,Never married,2
-646,"Mace, William",Male,18 - 34,2300,Non-Danish,Never married,2
-647,"Rogers Peckham, Rebekah",Female,18 - 34,2100,Non-Danish,Never married,2
 648,"el-Meskin, Tahleela",Female,18 - 34,2400,Non-Danish,Never married,0
 649,"Villarreal, Eladio",Male,18 - 34,2200,Non-Danish,Never married,0
 650,"Sampson, Keason",Male,18 - 34,2100,Non-Danish,Married/separated,0
 651,"Gomez, Crisol",Female,18 - 34,2100,Non-Danish,Never married,0
 652,"Tulga, Trevor",Male,18 - 34,2100,Non-Danish,Never married,0
-653,"Yeazel, Maria",Female,18 - 34,2100,Non-Danish,Never married,2
 654,"Anderson, Kenaya",Female,18 - 34,2200,Non-Danish,Never married,0
-655,"Vang, Nyandi",Female,18 - 34,2100,Non-Danish,Never married,2
 656,"Rasmussen, Christopher",Male,18 - 34,2100,Non-Danish,Never married,0
-657,"Silva, Monica",Female,18 - 34,2100,Non-Danish,Never married,2
 658,"Benavidez, Corina",Female,18 - 34,2300,Non-Danish,Never married,0
 659,"el-Pour, Naseefa",Female,18 - 34,2100,Non-Danish,Married/separated,0
 660,"Guimont, Amanda",Female,18 - 34,2100,Non-Danish,Never married,0
-661,"Abeyta, Alejandro",Male,18 - 34,2100,Non-Danish,Never married,2
-662,"al-Mansour, Nameera",Female,18 - 34,2100,Non-Danish,Never married,2
 663,"Manchego, Braxton",Male,18 - 34,2100,Non-Danish,Never married,0
 664,"Doyle, Maeve",Female,18 - 34,2200,Non-Danish,Never married,0
 665,"Malloy, Joseph",Male,18 - 34,2200,Non-Danish,Never married,0
 666,"Teves, Velma",Female,18 - 34,2100,Non-Danish,Never married,0
 667,"Garcia, Jimena",Female,18 - 34,2100,Non-Danish,Never married,0
-668,"Johnson, Glen",Male,18 - 34,2400,Non-Danish,Never married,2
-669,"al-Hamed, Imraan",Male,18 - 34,2200,Non-Danish,Never married,2
 670,"Walker, Karina",Female,18 - 34,2100,Non-Danish,Never married,0
 671,"Leschak, Brian",Male,18 - 34,2100,Non-Danish,Never married,0
 672,"Garcia, Gabriel",Male,18 - 34,2100,Non-Danish,Never married,0
@@ -676,35 +491,24 @@
 674,"Mcbride, Collin",Male,18 - 34,2200,Non-Danish,Married/separated,0
 675,"Patterson, Toby",Male,18 - 34,2100,Non-Danish,Never married,0
 676,"Ortivez, Jacob",Male,18 - 34,2300,Non-Danish,Never married,0
-677,"al-Hatem, Sundus",Female,18 - 34,2100,Non-Danish,Never married,2
 678,"Patel, Kyle",Male,18 - 34,2400,Non-Danish,Never married,0
 679,"Smallwood Parhan, Deion",Male,18 - 34,2100,Non-Danish,Never married,0
-680,"Ross, Tavishi",Female,18 - 34,2100,Non-Danish,Never married,2
-681,"Greimann, Kevin",Male,18 - 34,2200,Non-Danish,Never married,2
-682,"al-Maroun, Naazim",Male,18 - 34,2300,Non-Danish,Never married,2
 683,"Odom, Christina",Female,18 - 34,2400,Non-Danish,Never married,0
 684,"el-Mousa, Aiman",Male,18 - 34,2100,Non-Danish,Never married,0
-685,"Panyachith, Rebeka",Female,18 - 34,2100,Non-Danish,Never married,2
 686,"Hedin, Anthony",Male,18 - 34,2400,Non-Danish,Never married,0
 687,"Cotton, Bethany",Female,18 - 34,2300,Non-Danish,Never married,0
 688,"Solis, Vivian",Female,18 - 34,2100,Non-Danish,Never married,0
-689,"Mcwilliams, Dyara",Female,18 - 34,2200,Non-Danish,Never married,2
-690,"el-Shaker, Haazim",Male,18 - 34,2200,Non-Danish,Never married,2
 691,"Wall, Gabrielle",Female,18 - 34,2100,Non-Danish,Never married,0
 692,"Noonan, Nathan",Male,18 - 34,2400,Non-Danish,Never married,0
-693,"Ingah, Ivana Katerina",Female,18 - 34,2300,Non-Danish,Never married,2
 694,"Chu, Aaron",Male,18 - 34,2300,Non-Danish,Never married,0
 695,"Davis, Jeremiah",Male,18 - 34,2300,Non-Danish,Never married,0
-696,"Nolasco, James",Male,18 - 34,2100,Non-Danish,Never married,2
 697,"Jaquez, Annalise",Female,18 - 34,2100,Non-Danish,Never married,0
 698,"Ruiz, Gresia",Female,45 - 54,2400,Non-Danish,Married/separated,0
-699,"el-Zamani, Ikram",Male,45 - 54,2100,Non-Danish,Married/separated,2
 700,"al-Jafri, Saalima",Female,45 - 54,2300,Non-Danish,Never married,0
 701,"Briseno Valdez, Christian",Male,18 - 34,2400,Non-Danish,Married/separated,0
 702,"el-Youssef, Sahar",Female,35 - 44,2200,Non-Danish,Married/separated,0
 703,"el-Hares, Mazeed",Male,45 - 54,2400,Non-Danish,Married/separated,0
 704,"Mcbride, Charlene",Female,35 - 44,2400,Non-Danish,Married/separated,0
-705,"Saucedo-Esparza, Ray",Male,45 - 54,2200,Non-Danish,Widowed / Divorced,2
 706,"Mganga, Tynika",Female,35 - 44,2100,Non-Danish,Never married,0
 707,"el-Mina, Musfira",Female,35 - 44,2100,Non-Danish,Widowed / Divorced,0
 708,"el-Salem, Miqdaam",Male,45 - 54,2200,Non-Danish,Married/separated,0
@@ -712,13 +516,8 @@
 710,"al-Malik, Ghaamid",Male,35 - 44,2200,Non-Danish,Married/separated,0
 711,"Ramamurthi, Nalee",Female,35 - 44,2400,Non-Danish,Widowed / Divorced,0
 712,"Williams, Anthony",Male,45 - 54,2200,Non-Danish,Married/separated,0
-713,"Stogdill, Bronson",Male,35 - 44,2200,Non-Danish,Married/separated,2
-714,"Smith, Bryan",Male,35 - 44,2100,Non-Danish,Married/separated,2
 715,"Feher-Peiker, Ariana",Female,45 - 54,2400,Non-Danish,Never married,0
-716,"Dominguez, Delgermaa",Female,35 - 44,2400,Non-Danish,Married/separated,2
-717,"el-Ayoub, Arafaat",Male,35 - 44,2400,Non-Danish,Never married,2
 718,"Moore, Mikayla",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
-719,"el-Shafi, Mahmooda",Female,35 - 44,2400,Non-Danish,Never married,2
 720,"Davis, Marshall",Male,35 - 44,2200,Non-Danish,Married/separated,0
 721,"Jackson, Zachary",Male,18 - 34,2200,Non-Danish,Never married,0
 722,"Yancy, Andrew",Male,35 - 44,2200,Non-Danish,Never married,0
@@ -727,73 +526,46 @@
 725,"el-Saadeh, Burhaan",Male,35 - 44,2400,Non-Danish,Married/separated,0
 726,"Barraza, Elizabeth",Female,35 - 44,2400,Non-Danish,Married/separated,0
 727,"Francisco, Pablo",Male,35 - 44,2400,Non-Danish,Married/separated,0
-728,"Miller, Nathanial",Male,45 - 54,2400,Non-Danish,Never married,2
 729,"Herrera Parra, Joshua",Male,45 - 54,2200,Non-Danish,Married/separated,0
-730,"Tran, Alex",Male,35 - 44,2300,Non-Danish,Never married,2
 731,"al-Morad, Aanisa",Female,35 - 44,2100,Non-Danish,Never married,0
 732,"Torres, Vanessa",Female,35 - 44,2100,Non-Danish,Married/separated,0
 733,"al-Samara, Hadiyya",Female,35 - 44,2300,Non-Danish,Never married,0
 734,"Harris, Samuel",Male,35 - 44,2100,Non-Danish,Never married,0
 735,"Banuelos, Dayton",Male,35 - 44,2100,Non-Danish,Married/separated,0
 736,"Bodnar, Hanna",Female,35 - 44,2300,Non-Danish,Widowed / Divorced,0
-737,"Burt, Denaya",Female,35 - 44,2400,Non-Danish,Never married,2
 738,"Flanagan, Alexus",Female,35 - 44,2200,Non-Danish,Married/separated,0
 739,"Barnes, Aaron",Male,35 - 44,2400,Non-Danish,Never married,0
-740,"Wilson, Joshua",Male,45 - 54,2100,Non-Danish,Married/separated,2
 741,"Khan, Harmandeep",Female,35 - 44,2200,Non-Danish,Widowed / Divorced,0
 742,"Worsham, Jacky",Female,35 - 44,2100,Non-Danish,Never married,0
 743,"Martinez, Thomas",Male,35 - 44,2300,Non-Danish,Never married,0
-744,"Wu, Joseph",Male,45 - 54,2200,Non-Danish,Married/separated,2
 745,"Good, Kaya",Female,35 - 44,2400,Non-Danish,Married/separated,0
 746,"Suh, Pritika",Female,35 - 44,2200,Non-Danish,Never married,0
-747,"Snider, Micah",Male,45 - 54,2200,Non-Danish,Married/separated,2
-748,"Tran, Andrew",Male,45 - 54,2300,Non-Danish,Married/separated,2
 749,"Christopher, Ashlun",Female,45 - 54,2400,Non-Danish,Married/separated,0
-750,"Daniels, David",Male,35 - 44,2300,Non-Danish,Married/separated,2
-751,"Wimmer, Chykeiljah",Female,45 - 54,2400,Non-Danish,Married/separated,2
 752,"Posey, Kincaid",Male,35 - 44,2400,Non-Danish,Married/separated,0
-753,"Palmer, Jessica",Female,45 - 54,2400,Non-Danish,Never married,2
 754,"Rodriguez, Ruben",Male,45 - 54,2400,Non-Danish,Married/separated,0
-755,"Taylor, Aleksandr",Male,35 - 44,2100,Non-Danish,Never married,2
 756,"Grabau, Sarah",Female,35 - 44,2400,Non-Danish,Married/separated,0
-757,"Steele, John",Male,35 - 44,2400,Non-Danish,Married/separated,2
 758,"Linn, Michaela",Female,18 - 34,2100,Non-Danish,Never married,0
-759,"Ta, Connie",Female,35 - 44,2100,Non-Danish,Widowed / Divorced,2
-760,"al-Abdelrahman, Abdul Azeez",Male,35 - 44,2100,Non-Danish,Never married,2
 761,"Wall, Jaden",Male,35 - 44,2400,Non-Danish,Married/separated,0
-762,"Lozano, Ashley",Female,45 - 54,2200,Non-Danish,Married/separated,2
-763,"al-Baccus, Mazeed",Male,35 - 44,2400,Non-Danish,Married/separated,2
 764,"el-Baluch, Haafiza",Female,35 - 44,2200,Non-Danish,Never married,0
 765,"Fender, Jimmy",Male,35 - 44,2200,Non-Danish,Never married,0
 766,"Babcock, Courtney",Female,35 - 44,2300,Non-Danish,Never married,0
-767,"Padeway, Stephen",Male,35 - 44,2300,Non-Danish,Never married,2
 768,"Hassan, Zipporah",Female,35 - 44,2300,Non-Danish,Never married,0
 769,"Lambertson, Christian",Male,45 - 54,2400,Non-Danish,Married/separated,0
 770,"Eltayeb, Elisabeth",Female,35 - 44,2200,Non-Danish,Never married,0
-771,"Brunson, Kevin",Male,45 - 54,2400,Non-Danish,Never married,2
 772,"Williams, Kelsie",Female,35 - 44,2300,Non-Danish,Married/separated,0
 773,"Roe-Miller, Joanne",Female,45 - 54,2400,Non-Danish,Married/separated,0
 774,"Castillo, Lacee",Female,35 - 44,2400,Non-Danish,Never married,0
 775,"Martin, Anthony",Male,18 - 34,2300,Non-Danish,Married/separated,0
-776,"Lovato, Edgar",Male,45 - 54,2400,Non-Danish,Married/separated,2
-777,"Grinstead, Kaley",Female,45 - 54,2400,Non-Danish,Married/separated,2
 778,"Wong, Angelica",Female,35 - 44,2100,Non-Danish,Never married,0
 779,"Hardy, Jacob",Male,35 - 44,2100,Non-Danish,Married/separated,0
-780,"Dalton, Daylamae",Female,45 - 54,2300,Non-Danish,Married/separated,2
-781,"Fuller, Joshua",Male,35 - 44,2400,Non-Danish,Never married,2
-782,"Mehaffey, William",Male,35 - 44,2200,Non-Danish,Never married,2
 783,"Morford, Troy",Male,35 - 44,2100,Non-Danish,Never married,0
-784,"Trinh, Shalil",Male,35 - 44,2300,Non-Danish,Never married,2
 785,"el-Sabet, Maazin",Male,35 - 44,2200,Non-Danish,Married/separated,0
 786,"Kiyotake, John",Male,35 - 44,2100,Non-Danish,Married/separated,0
 787,"West, Tamika",Female,35 - 44,2400,Non-Danish,Married/separated,0
-788,"Morrison, Autumn",Female,35 - 44,2400,Non-Danish,Never married,2
 789,"Garcia Soto, Michael",Male,35 - 44,2200,Non-Danish,Never married,0
 790,"al-Jabbar, Qais",Male,35 - 44,2100,Non-Danish,Never married,0
 791,"Liddell, Thomas",Male,35 - 44,2300,Non-Danish,Never married,0
-792,"Coakley, Wyleen",Female,45 - 54,2100,Non-Danish,Never married,2
 793,"Perez, Jaylene",Female,35 - 44,2400,Non-Danish,Never married,0
-794,"Amarsaikhan, Remy",Male,35 - 44,2100,Non-Danish,Never married,2
 795,"Naple, Lidia",Female,45 - 54,2400,Non-Danish,Never married,0
 796,"al-Zahra, Mubaaraka",Female,35 - 44,2100,Non-Danish,Never married,0
 797,"Kim, Isaiah",Male,35 - 44,2300,Non-Danish,Widowed / Divorced,0
@@ -801,37 +573,22 @@
 799,"Silverston, Ashley",Female,35 - 44,2100,Non-Danish,Married/separated,0
 800,"Rice-Sayers, Dominic",Male,35 - 44,2300,Non-Danish,Never married,0
 801,"al-Farid, Ubaida",Male,45 - 54,2100,Non-Danish,Widowed / Divorced,0
-802,"Richter, Linsian",Female,45 - 54,2200,Non-Danish,Widowed / Divorced,2
 803,"Saddoris, Katherine",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
 804,"Flores, Thaddeus",Male,35 - 44,2100,Non-Danish,Never married,0
 805,"Lor, Jeanna",Female,35 - 44,2200,Non-Danish,Married/separated,0
 806,"al-Ramin, Rajaa",Male,35 - 44,2200,Non-Danish,Never married,0
-807,"Lucero, Miguel",Male,18 - 34,2100,Non-Danish,Married/separated,2
 808,"Matthews, Jordan",Male,35 - 44,2100,Non-Danish,Never married,0
 809,"Bustos, Carlos",Male,35 - 44,2300,Non-Danish,Married/separated,0
 810,"Pancost, Brittany",Female,35 - 44,2200,Non-Danish,Never married,0
-811,"Schoon, Naathan",Male,35 - 44,2300,Non-Danish,Married/separated,2
 812,"al-Vohra, Rifqa",Female,35 - 44,2300,Non-Danish,Widowed / Divorced,0
-813,"Drayton, Keanna",Female,35 - 44,2400,Non-Danish,Married/separated,2
 814,"Li, Jiyoon",Female,35 - 44,2100,Non-Danish,Never married,0
-815,"Trujillo, Paul",Male,18 - 34,2400,Non-Danish,Married/separated,2
-816,"Dubus, Savannah",Female,45 - 54,2300,Non-Danish,Married/separated,2
 817,"Bishop Jr, Andrea",Female,35 - 44,2100,Non-Danish,Married/separated,0
-818,"Castelino, Miranda",Female,35 - 44,2200,Non-Danish,Never married,2
-819,"Mcclure, Isaiah",Male,35 - 44,2400,Non-Danish,Never married,2
 820,"Debonis, John",Male,45 - 54,2200,Non-Danish,Widowed / Divorced,0
-821,"Bailey, Rose",Female,35 - 44,2300,Non-Danish,Never married,2
-822,"Jensen, Michaela",Female,18 - 34,2400,Non-Danish,Never married,2
-823,"el-Azam, Qaaida",Female,35 - 44,2200,Non-Danish,Married/separated,2
 824,"Geyer, Heidi",Female,35 - 44,2300,Non-Danish,Never married,0
 825,"Vera, Janay",Female,18 - 34,2300,Non-Danish,Married/separated,0
-826,"el-Bagheri, Zaki",Male,18 - 34,2300,Non-Danish,Never married,2
-827,"Davis, Claire",Female,35 - 44,2400,Non-Danish,Widowed / Divorced,2
 828,"al-Beydoun, Baaqir",Male,18 - 34,2200,Non-Danish,Never married,0
 829,"Loyan, Lee",Male,45 - 54,2400,Non-Danish,Married/separated,0
 830,"Cortez, Miguel",Male,45 - 54,2300,Non-Danish,Married/separated,0
-831,"Nikrad, Austin",Male,35 - 44,2200,Non-Danish,Married/separated,2
-832,"el-Ghattas, Furqaan",Male,45 - 54,2300,Non-Danish,Married/separated,2
 833,"Lira, Desiree",Female,35 - 44,2300,Non-Danish,Never married,0
 834,"Quackenbush, Derek",Male,35 - 44,2400,Non-Danish,Never married,0
 835,"Yanushonis, Austin",Male,18 - 34,2200,Non-Danish,Married/separated,0
@@ -840,7 +597,6 @@
 838,"Cunningham, Sierra",Female,35 - 44,2400,Non-Danish,Married/separated,0
 839,"Tani, Brianna",Female,35 - 44,2100,Non-Danish,Never married,0
 840,"Harriman, Joshua",Male,35 - 44,2300,Non-Danish,Married/separated,0
-841,"Nguyen, Thuan",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,2
 842,"Skold, Viktoria",Female,35 - 44,2100,Non-Danish,Never married,0
 843,"Reed-Bankston, Alfred",Male,35 - 44,2200,Non-Danish,Widowed / Divorced,0
 844,"Santos, Paolo",Male,45 - 54,2400,Non-Danish,Never married,0
@@ -852,8 +608,6 @@
 850,"Newman, Christopher",Male,35 - 44,2300,Non-Danish,Married/separated,0
 851,"Ralstin, Meaghan",Female,35 - 44,2400,Non-Danish,Married/separated,0
 852,"al-Hafeez, Tahleela",Female,35 - 44,2100,Non-Danish,Never married,0
-853,"Pringle, Austin",Male,35 - 44,2300,Non-Danish,Never married,2
-854,"Foster, David",Male,35 - 44,2400,Non-Danish,Never married,2
 855,"Tena-Parra, Erick",Male,35 - 44,2400,Non-Danish,Married/separated,0
 856,"Kunstman, Simon",Male,35 - 44,2300,Non-Danish,Never married,0
 857,"al-Abdallah, Jafar",Male,35 - 44,2200,Non-Danish,Widowed / Divorced,0
@@ -861,54 +615,38 @@
 859,"Quick Bear, Nizhoni",Female,35 - 44,2100,Non-Danish,Married/separated,0
 860,"Slaughter, Danielle",Female,35 - 44,2100,Non-Danish,Married/separated,0
 861,"Zimmerman, Jordan",Male,35 - 44,2200,Non-Danish,Married/separated,0
-862,"Griffin, Cassandra",Female,35 - 44,2400,Non-Danish,Never married,2
-863,"Martinez, Tiana",Female,35 - 44,2300,Non-Danish,Married/separated,2
 864,"Barrales, Francisco",Male,35 - 44,2100,Non-Danish,Widowed / Divorced,0
 865,"Pham, Cheyenne",Female,35 - 44,2200,Non-Danish,Widowed / Divorced,0
-866,"Briones, Aleena",Female,35 - 44,2300,Non-Danish,Married/separated,2
 867,"Reyes, Yesenia",Female,18 - 34,2200,Non-Danish,Never married,0
-868,"Hamm, Lakota",Male,45 - 54,2300,Non-Danish,Married/separated,2
 869,"Bailey, Zackieus",Male,35 - 44,2400,Non-Danish,Married/separated,0
 870,"Bresson, Lorenzo",Male,45 - 54,2200,Non-Danish,Never married,0
 871,"Solberg, Alexander",Male,35 - 44,2100,Non-Danish,Married/separated,0
 872,"el-Jama, Hameeda",Female,35 - 44,2300,Non-Danish,Married/separated,0
 873,"Hall, Tuyet",Female,35 - 44,2200,Non-Danish,Never married,0
-874,"al-Hassen, Ishaaq",Male,35 - 44,2400,Non-Danish,Never married,2
 875,"Sabey, Jericho",Male,18 - 34,2100,Non-Danish,Married/separated,0
-876,"Talley, Rashad",Male,35 - 44,2200,Non-Danish,Married/separated,2
 877,"Gabriel, Freddie",Male,35 - 44,2100,Non-Danish,Married/separated,0
 878,"al-Edris, Azza",Female,35 - 44,2300,Non-Danish,Never married,0
 879,"Galindo, Amber",Female,35 - 44,2300,Non-Danish,Married/separated,0
 880,"Staffieri, Rami",Male,35 - 44,2200,Non-Danish,Never married,0
 881,"Trujillo, Mayra",Female,35 - 44,2400,Non-Danish,Never married,0
 882,"Marquez, Ashley",Female,35 - 44,2300,Non-Danish,Married/separated,0
-883,"Wilkerson, Natalie",Female,35 - 44,2400,Non-Danish,Married/separated,2
-884,"al-Masri, Ahlaam",Female,35 - 44,2200,Non-Danish,Married/separated,2
 885,"Johnson, Danielle",Female,35 - 44,2300,Non-Danish,Never married,0
 886,"el-Abdella, Laaiqa",Female,35 - 44,2400,Non-Danish,Married/separated,0
 887,"Eppers, Kali",Female,35 - 44,2400,Non-Danish,Married/separated,0
 888,"Kristoffersen, Eric",Male,45 - 54,2400,Non-Danish,Never married,0
-889,"Meakins, Mackenzie",Male,45 - 54,2100,Non-Danish,Married/separated,2
 890,"Ngo, Matthew",Male,35 - 44,2300,Non-Danish,Never married,0
 891,"Robinson, Bryan",Male,45 - 54,2200,Non-Danish,Never married,0
 892,"Lovett, Deqwan",Male,45 - 54,2400,Non-Danish,Married/separated,0
-893,"Mose, Nastashia",Female,35 - 44,2300,Non-Danish,Married/separated,2
-894,"Casas, Danae",Female,45 - 54,2200,Non-Danish,Married/separated,2
 895,"Schilling, Trentan",Male,35 - 44,2300,Non-Danish,Widowed / Divorced,0
 896,"Gregory, Sa'Vannah",Female,35 - 44,2200,Non-Danish,Never married,0
 897,"Ortiz, Ashley",Female,45 - 54,2400,Non-Danish,Married/separated,0
 898,"al-Mohamad, Fuaada",Female,35 - 44,2100,Non-Danish,Married/separated,0
 899,"Collings, Kendra",Female,35 - 44,2400,Non-Danish,Never married,0
 900,"Avila, Antonia",Female,35 - 44,2300,Non-Danish,Never married,0
-901,"el-Jamal, Safwa",Female,35 - 44,2400,Non-Danish,Widowed / Divorced,2
 902,"Flores, Blake",Male,35 - 44,2400,Non-Danish,Married/separated,0
 903,"Colgan, Tanesha",Female,45 - 54,2300,Non-Danish,Never married,0
 904,"el-Mohammad, Zainab",Female,35 - 44,2200,Non-Danish,Married/separated,0
 905,"Wedgle, Alejandro",Male,45 - 54,2400,Non-Danish,Never married,0
-906,"Ulloa, Miriam",Female,35 - 44,2100,Non-Danish,Never married,2
-907,"al-Mousa, Shareefa",Female,35 - 44,2200,Non-Danish,Widowed / Divorced,2
-908,"Worford, Alexander",Male,45 - 54,2100,Non-Danish,Widowed / Divorced,2
-909,"Martinez, Alyssa",Female,45 - 54,2400,Non-Danish,Never married,2
 910,"Richardson, Mina",Female,35 - 44,2200,Non-Danish,Widowed / Divorced,0
 911,"al-Wahab, Fuaad",Male,35 - 44,2200,Non-Danish,Never married,0
 912,"Brandon, Alissa",Female,45 - 54,2400,Non-Danish,Married/separated,0
@@ -927,30 +665,24 @@
 925,"el-Minhas, Zaaida",Female,55 - 64,2200,Non-Danish,Married/separated,0
 926,"Matano, Sharon",Female,55 - 64,2300,Non-Danish,Never married,0
 927,"Baez-Rodriguez, Mario",Male,55 - 64,2300,Non-Danish,Never married,0
-928,"el-Yousef, Hadbaaa",Female,45 - 54,2200,Non-Danish,Married/separated,2
 929,"Rodriguez, Shelly",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,0
 930,"al-Dia, Maimoona",Female,45 - 54,2400,Non-Danish,Married/separated,0
 931,"Williams, Melvin",Male,45 - 54,2400,Non-Danish,Married/separated,0
-932,"Lopez, Brian",Male,65+,2200,Non-Danish,Married/separated,2
 933,"Cornejo, Sarah",Female,65+,2100,Non-Danish,Never married,0
 934,"Thompson, Senaiet",Female,55 - 64,2300,Non-Danish,Married/separated,0
 935,"Zeng, Ali",Male,65+,2300,Non-Danish,Widowed / Divorced,0
-936,"Nichols, Cherokee",Female,45 - 54,2400,Non-Danish,Married/separated,2
 937,"Janis, Ashley",Female,55 - 64,2200,Non-Danish,Married/separated,0
 938,"Manus, Allison",Female,55 - 64,2200,Non-Danish,Married/separated,0
 939,"el-Habib, Ghaamid",Male,55 - 64,2400,Non-Danish,Married/separated,0
 940,"Hu, Thanhtai",Male,55 - 64,2400,Non-Danish,Married/separated,0
 941,"Boskovich, Hailey",Female,55 - 64,2200,Non-Danish,Married/separated,0
-942,"Arellano, Abraham",Male,65+,2200,Non-Danish,Married/separated,2
 943,"Matsumoto, Amanda",Female,45 - 54,2200,Non-Danish,Never married,0
 944,"Giron Lovato, Rodney",Male,45 - 54,2300,Non-Danish,Married/separated,0
 945,"Ward, Darias",Male,55 - 64,2200,Non-Danish,Married/separated,0
 946,"Jenkins, Madeleine",Female,55 - 64,2400,Non-Danish,Married/separated,0
-947,"Chakravarty, Jenna",Female,65+,2400,Non-Danish,Married/separated,2
 948,"Smith, Lashanda",Female,45 - 54,2300,Non-Danish,Married/separated,0
 949,"Chacon, Destinie",Female,65+,2200,Non-Danish,Married/separated,0
 950,"Schmidt, Mary",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
-951,"Cove, Andrea",Female,55 - 64,2200,Non-Danish,Married/separated,2
 952,"Samudio, Andrew",Male,55 - 64,2400,Non-Danish,Married/separated,0
 953,"Apodaca, Jared",Male,55 - 64,2400,Non-Danish,Married/separated,0
 954,"Swift Bird, Emilio",Male,55 - 64,2200,Non-Danish,Never married,0
@@ -959,36 +691,24 @@
 957,"Bryant, Chao",Male,45 - 54,2200,Non-Danish,Never married,0
 958,"Akina, Kayle",Male,55 - 64,2300,Non-Danish,Married/separated,0
 959,"el-Rashed, Zuhaira",Female,45 - 54,2300,Non-Danish,Married/separated,0
-960,"Wright, Cassidy",Female,55 - 64,2400,Non-Danish,Never married,2
 961,"Deking, Caitlyn",Female,55 - 64,2200,Non-Danish,Married/separated,0
-962,"Gallegos, Holly",Female,65+,2300,Non-Danish,Never married,2
 963,"Avila, Dante",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 964,"Perea, Andre",Male,45 - 54,2200,Non-Danish,Never married,0
 965,"Bourne, Vanessa",Female,55 - 64,2200,Non-Danish,Married/separated,0
-966,"al-Ullah, Sitaara",Female,55 - 64,2400,Non-Danish,Married/separated,2
 967,"Graves, Akeem",Male,55 - 64,2400,Non-Danish,Never married,0
-968,"Claridy, Jaymie Leigh",Female,55 - 64,2400,Non-Danish,Married/separated,2
 969,"Shrestha, Pharwit",Male,55 - 64,2100,Non-Danish,Married/separated,0
-970,"Hinojos, Alberto",Male,55 - 64,2300,Non-Danish,Married/separated,2
 971,"Salazar, Melisa",Female,45 - 54,2400,Non-Danish,Married/separated,0
 972,"Bonsu, Shapprrea",Female,45 - 54,2200,Non-Danish,Never married,0
-973,"Obenchain, Brendan",Male,55 - 64,2200,Non-Danish,Married/separated,2
 974,"Tran, Akshat",Male,55 - 64,2300,Non-Danish,Married/separated,0
-975,"al-Othman, Waheeda",Female,65+,2400,Non-Danish,Married/separated,2
 976,"Arnold, Danielle",Female,45 - 54,2400,Non-Danish,Never married,0
 977,"Tafoya, Dean",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
-978,"Hernandez, Gabriela",Female,65+,2300,Non-Danish,Married/separated,2
 979,"Ashalintubbi, Holly",Female,55 - 64,2200,Non-Danish,Married/separated,0
 980,"Perez, Jason",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,0
-981,"Schirer, Kali",Female,65+,2400,Non-Danish,Never married,2
 982,"Lattimore, Jahmai",Female,45 - 54,2400,Non-Danish,Never married,0
 983,"al-Iqbal, Naseem",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
-984,"Vanstraten, Anthony",Male,45 - 54,2400,Non-Danish,Married/separated,2
 985,"Muniz, Ian",Male,55 - 64,2400,Non-Danish,Married/separated,0
 986,"Gibson, Jada",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
-987,"Brassell, Antonio",Male,55 - 64,2300,Non-Danish,Married/separated,2
 988,"Rowe, Stephanie",Female,55 - 64,2300,Non-Danish,Married/separated,0
-989,"Vang, Valentina",Female,45 - 54,2400,Non-Danish,Never married,2
 990,"al-Mohammad, Sabaah",Male,55 - 64,2300,Non-Danish,Never married,0
 991,"Rubano, Kelly",Female,55 - 64,2300,Non-Danish,Never married,0
 992,"Melonas, Aaron",Male,45 - 54,2200,Non-Danish,Widowed / Divorced,0
@@ -996,31 +716,22 @@
 994,"Gochanour, Lauren",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
 995,"Lorenz, Barbara",Female,55 - 64,2100,Non-Danish,Married/separated,0
 996,"Claxton, Joel",Male,45 - 54,2200,Non-Danish,Married/separated,0
-997,"Stahl, Thaleia",Female,55 - 64,2400,Non-Danish,Married/separated,2
-998,"Robles, Cassandra",Female,55 - 64,2400,Non-Danish,Married/separated,2
-999,"Lee, Lisa",Female,65+,2300,Non-Danish,Married/separated,2
 1000,"Riley-King, Sidney",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,0
-1001,"Pritchett, Wyatt",Male,55 - 64,2400,Non-Danish,Married/separated,2
-1002,"Pabalan, Ijya",Female,55 - 64,2100,Non-Danish,Married/separated,2
 1003,"Camous, Jhawn",Male,45 - 54,2400,Non-Danish,Never married,0
 1004,"Parker, Myles",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1005,"Bernardo, Catherine",Female,45 - 54,2200,Non-Danish,Married/separated,0
-1006,"Lyon, Shannon",Female,65+,2300,Non-Danish,Married/separated,2
 1007,"Zamora, Kenny",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1008,"al-Ishmael, Ghazaala",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1009,"el-Raad, Masroora",Female,45 - 54,2200,Non-Danish,Married/separated,0
 1010,"Cardoza, Risa",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1011,"Richmond, Essence",Female,55 - 64,2300,Non-Danish,Married/separated,0
-1012,"Eddy, Ryan",Male,45 - 54,2400,Non-Danish,Married/separated,2
 1013,"Sandhu, Mary",Female,65+,2300,Non-Danish,Married/separated,0
 1014,"el-Sadiq, Shaafi",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1015,"al-Momin, Awad",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1016,"Vigil, Kenia",Female,65+,2400,Non-Danish,Married/separated,2
 1017,"Tewolde, Bobby",Male,45 - 54,2200,Non-Danish,Never married,0
 1018,"Savage Jr, Erica",Female,65+,2400,Non-Danish,Married/separated,0
 1019,"Perales, Angel",Female,65+,2200,Non-Danish,Never married,0
 1020,"Loughridge, Stephanie",Female,55 - 64,2400,Non-Danish,Married/separated,0
-1021,"el-Farran, Nazeeha",Female,55 - 64,2400,Non-Danish,Married/separated,2
 1022,"Macegan, Morgan",Female,65+,2200,Non-Danish,Married/separated,0
 1023,"Sabey, Jayda",Female,65+,2400,Non-Danish,Married/separated,0
 1024,"el-Mousa, Najeeba",Female,45 - 54,2200,Non-Danish,Married/separated,0
@@ -1028,160 +739,110 @@
 1026,"White, De Andre",Male,55 - 64,2300,Non-Danish,Married/separated,0
 1027,"Smith, Ayala",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1028,"Clementi, Jacqueline",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
-1029,"Gonzalez, Keilah",Female,55 - 64,2400,Non-Danish,Married/separated,2
 1030,"al-Ozer, Qaasim",Male,65+,2200,Non-Danish,Married/separated,0
 1031,"Chavez, Rose",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1032,"Mccray, Elicia",Female,45 - 54,2400,Non-Danish,Married/separated,2
-1033,"Stivers, Kelvin",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,2
 1034,"Trujillo, Isidro",Male,55 - 64,2300,Non-Danish,Married/separated,0
 1035,"Aguirre, Destiny",Female,45 - 54,2100,Non-Danish,Married/separated,0
 1036,"Kirkemo, Daniel",Female,55 - 64,2200,Non-Danish,Married/separated,0
 1037,"Gonzalez-Medina, Daniel",Male,55 - 64,2300,Non-Danish,Married/separated,0
 1038,"Iron Cloud, Michelle",Female,55 - 64,2300,Non-Danish,Never married,0
-1039,"Willcutt, Mong",Female,55 - 64,2200,Non-Danish,Never married,2
 1040,"Lumba, Christina",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1041,"Best, Christina",Female,55 - 64,2200,Non-Danish,Married/separated,0
 1042,"Ouphasakda, Sean",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1043,"Hazoume, A'Jahn",Male,45 - 54,2400,Non-Danish,Never married,2
 1044,"Tapia, Omar",Male,65+,2400,Non-Danish,Married/separated,0
 1045,"Le, Aditya",Male,55 - 64,2200,Non-Danish,Married/separated,0
-1046,"Trujillo, Adrianna",Female,55 - 64,2400,Non-Danish,Married/separated,2
 1047,"King, Amanuel",Male,65+,2300,Non-Danish,Married/separated,0
 1048,"al-Younis, Abdul Majeed",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1049,"Kim, Dominick",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
-1050,"Santistevan-Minnick, Kelsi",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 1051,"Ard, Brandon",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1052,"Cordova, Jasmine",Female,65+,2300,Non-Danish,Married/separated,0
 1053,"Canedo, Victor",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1054,"el-Farrah, Maa'iz",Male,55 - 64,2400,Non-Danish,Never married,0
 1055,"el-Riaz, Shakeela",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1056,"al-Tariq, Humaira",Female,55 - 64,2300,Non-Danish,Married/separated,2
 1057,"Herde, Richard",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,0
 1058,"Jivan, Elena",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
-1059,"al-Hanif, Hazm",Male,55 - 64,2200,Non-Danish,Married/separated,2
 1060,"Herrera, Juana",Female,55 - 64,2400,Non-Danish,Never married,0
 1061,"Brunswig, Samuel",Male,55 - 64,2100,Non-Danish,Married/separated,0
 1062,"Pena, Melissa",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1063,"Vigil, Nicholas",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1064,"Allen, Gina",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 1065,"Afrifa, Andre",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1066,"Parks, Joshua",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,0
 1067,"Parton, Heather",Female,65+,2400,Non-Danish,Never married,0
 1068,"el-Fawaz, Hamdoona",Female,45 - 54,2400,Non-Danish,Never married,0
 1069,"al-Hameed, Atiyya",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1070,"Garcia-Contreras, Shaylee",Female,45 - 54,2300,Non-Danish,Married/separated,0
-1071,"Behr, Celia",Female,45 - 54,2200,Non-Danish,Married/separated,2
 1072,"Caldera, Javier",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1073,"Salazar-Bennett, Leslie",Female,45 - 54,2400,Non-Danish,Married/separated,2
 1074,"Smith, Summer",Female,55 - 64,2200,Non-Danish,Never married,0
-1075,"Kim, Sebastian",Male,65+,2200,Non-Danish,Widowed / Divorced,2
 1076,"Aouthabachi, Charell",Female,65+,2300,Non-Danish,Widowed / Divorced,0
 1077,"Mayeux, Charles",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,0
 1078,"Begaye, Rebecca",Female,45 - 54,2400,Non-Danish,Married/separated,0
-1079,"Lutz, Madeleine",Female,55 - 64,2300,Non-Danish,Never married,2
 1080,"Rasmussen, Kaitlin",Female,65+,2300,Non-Danish,Married/separated,0
-1081,"Mcconnaughhay, Ty",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 1082,"Allen, Jasmine",Female,55 - 64,2200,Non-Danish,Never married,0
 1083,"Comstock, Robert",Male,45 - 54,2200,Non-Danish,Never married,0
 1084,"Lawrence, Blia",Female,55 - 64,2100,Non-Danish,Never married,0
 1085,"Foster, Miranda",Female,55 - 64,2300,Non-Danish,Married/separated,0
-1086,"el-Azad, Bassil",Male,45 - 54,2400,Non-Danish,Married/separated,2
 1087,"Caulley, Bailey",Female,45 - 54,2100,Non-Danish,Married/separated,0
 1088,"Rockwell, Talon",Female,55 - 64,2300,Non-Danish,Married/separated,0
-1089,"Atwell, Joseph Dean",Male,45 - 54,2400,Non-Danish,Married/separated,2
 1090,"el-Yousef, Minnah",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
 1091,"al-Jalali, Zubaida",Female,45 - 54,2300,Non-Danish,Never married,0
 1092,"al-Sarah, Mawhiba",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1093,"Van, Savio",Male,55 - 64,2200,Non-Danish,Married/separated,0
-1094,"Campos, Fernando",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,2
-1095,"Turner, Juwairiyyah",Female,55 - 64,2300,Non-Danish,Never married,2
 1096,"Lewis, Ryvon",Male,45 - 54,2300,Non-Danish,Married/separated,0
 1097,"Cortez Ballesteros, Vanessa",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1098,"el-Abed, Ramziyya",Female,55 - 64,2200,Non-Danish,Married/separated,2
-1099,"Hondorf, Sean",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,2
 1100,"al-Shehata, Saleet",Male,45 - 54,2400,Non-Danish,Married/separated,0
 1101,"Hoang, Matthew",Male,55 - 64,2100,Non-Danish,Married/separated,0
 1102,"al-Hadi, Kulthum",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1103,"Ao, Easley",Female,45 - 54,2400,Non-Danish,Never married,0
 1104,"Nash, Bryant",Male,65+,2300,Non-Danish,Married/separated,0
-1105,"Martin, Julia",Female,65+,2400,Non-Danish,Married/separated,2
 1106,"Cereceres, Amy",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1107,"Wall, Rachael",Female,55 - 64,2200,Non-Danish,Married/separated,0
 1108,"Quiroa, Imants",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1109,"Prum, Eric",Male,65+,2300,Non-Danish,Widowed / Divorced,0
 1110,"el-Amini, Nabeela",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1111,"al-Jamail, Hamdi",Male,45 - 54,2200,Non-Danish,Widowed / Divorced,0
-1112,"Johnson, Jamel",Male,45 - 54,2300,Non-Danish,Married/separated,2
 1113,"Arciniega-Rivera, Allene",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1114,"Romero, Portia",Female,45 - 54,2100,Non-Danish,Married/separated,0
 1115,"Beckman, Shelby",Female,65+,2400,Non-Danish,Married/separated,0
 1116,"Christopher, Zachariah",Male,55 - 64,2200,Non-Danish,Married/separated,0
-1117,"al-Ayoob, Fareed",Male,45 - 54,2400,Non-Danish,Married/separated,2
-1118,"Reed, Myles",Male,65+,2300,Non-Danish,Widowed / Divorced,2
 1119,"Bravo, Abbie",Female,65+,2400,Non-Danish,Married/separated,0
-1120,"Green, Cameron",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,2
-1121,"al-Baten, Aatif",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,2
-1122,"Cotonuts, Cambria",Female,55 - 64,2200,Non-Danish,Widowed / Divorced,2
-1123,"el-Kader, Daif",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 1124,"Ahmed, Elizabeth",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1125,"al-Attar, Faai Z",Male,45 - 54,2400,Non-Danish,Married/separated,0
-1126,"Khuu, Mathew",Male,55 - 64,2300,Non-Danish,Married/separated,2
 1127,"el-Mir, Shaheera",Female,45 - 54,2400,Non-Danish,Never married,0
 1128,"Ramamurthi, Taegi",Female,55 - 64,2300,Non-Danish,Married/separated,0
-1129,"Sinha, Micah",Male,65+,2300,Non-Danish,Never married,2
 1130,"el-Allee, Sakeena",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1131,"Jimenez De La Cruz, Tyler",Male,65+,2300,Non-Danish,Widowed / Divorced,0
-1132,"Stein, Domenique",Female,45 - 54,2400,Non-Danish,Never married,2
-1133,"Burch, Mandy",Female,45 - 54,2300,Non-Danish,Married/separated,2
 1134,"Mckay, William",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,0
 1135,"Harris, Joseph",Male,45 - 54,2300,Non-Danish,Never married,0
 1136,"Atchley, Sarah",Female,45 - 54,2200,Non-Danish,Widowed / Divorced,0
 1137,"Losasso, Benjamin",Male,45 - 54,2400,Non-Danish,Married/separated,0
 1138,"Martinez, Sarah",Female,55 - 64,2400,Non-Danish,Never married,0
 1139,"Sameshima, Kalisha",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1140,"Reynolds, Jane",Female,55 - 64,2300,Non-Danish,Married/separated,2
-1141,"Kirkman, Zaylah",Female,65+,2400,Non-Danish,Married/separated,2
 1142,"Pratt, David",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1143,"Yoshida, Elaine",Female,55 - 64,2400,Non-Danish,Never married,0
 1144,"el-Satter, Salmaan",Male,65+,2300,Non-Danish,Never married,0
 1145,"Vo, Matthew",Male,55 - 64,2300,Non-Danish,Married/separated,0
-1146,"Lewis, Mohamed",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,2
 1147,"Gurreri, Shawn",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,0
-1148,"Adams, Andrew",Male,55 - 64,2100,Non-Danish,Widowed / Divorced,2
-1149,"Johnson, Corbin",Male,65+,2400,Non-Danish,Married/separated,2
 1150,"Sung, Shayla",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,0
-1151,"Ward, Anddi",Female,55 - 64,2400,Non-Danish,Never married,2
 1152,"Stiens, Ashley",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1153,"Crum, Jenelle",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,2
 1154,"Mariscotti, Christy",Female,55 - 64,2100,Non-Danish,Married/separated,0
-1155,"Moreland, Cheyenne",Female,65+,2300,Non-Danish,Never married,2
-1156,"Correa, Gregory",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,2
 1157,"el-Kabir, Khaalida",Female,45 - 54,2200,Non-Danish,Never married,0
-1158,"Henrikson, Addison",Male,55 - 64,2400,Non-Danish,Married/separated,2
 1159,"Habteyesus, Stephanie",Female,55 - 64,2200,Non-Danish,Married/separated,0
 1160,"Stacy, Taylor",Male,45 - 54,2400,Non-Danish,Widowed / Divorced,0
 1161,"al-Sharif, Firdaus",Female,45 - 54,2200,Non-Danish,Married/separated,0
 1162,"Buckley, Paul",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,0
 1163,"Bandy, Shane",Male,45 - 54,2400,Non-Danish,Never married,0
-1164,"Nelson, Adam",Male,65+,2300,Non-Danish,Married/separated,2
 1165,"Rhoads, Cameron",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1166,"Hernandez, Austina",Female,45 - 54,2400,Non-Danish,Never married,0
 1167,"el-Rashed, Jumaana",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,0
 1168,"al-Mohammed, Muneefa",Female,55 - 64,2200,Non-Danish,Married/separated,0
-1169,"Golbaz, Justin",Male,65+,2400,Non-Danish,Married/separated,2
 1170,"Kwon, Amber",Female,55 - 64,2400,Non-Danish,Never married,0
 1171,"Kincaid, Nykia",Female,55 - 64,2400,Non-Danish,Married/separated,0
-1172,"Murphy, Sammi",Female,65+,2300,Non-Danish,Never married,2
 1173,"Graves, Rachel",Female,55 - 64,2400,Non-Danish,Never married,0
-1174,"el-Reza, Tawfeeqa",Female,65+,2200,Non-Danish,Widowed / Divorced,2
 1175,"Tang, Christopher",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1176,"Brown, Shomanique",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1177,"Hatcher, Brittany",Female,55 - 64,2300,Non-Danish,Married/separated,2
-1178,"Brisbane, Katherine",Female,55 - 64,2300,Non-Danish,Married/separated,2
 1179,"Ramirez, Mckenna",Female,65+,2300,Non-Danish,Never married,0
 1180,"Israel, Ariana",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1181,"Herrera Martinez Jr, John",Male,45 - 54,2400,Non-Danish,Married/separated,0
-1182,"Lockhart, Firice",Male,55 - 64,2400,Non-Danish,Married/separated,2
 1183,"el-Bahri, Tammaam",Male,65+,2400,Non-Danish,Married/separated,0
 1184,"Jones, Erin",Female,45 - 54,2200,Non-Danish,Married/separated,0
 1185,"Arata, Natalie",Female,65+,2100,Non-Danish,Widowed / Divorced,0
@@ -1191,25 +852,15 @@
 1189,"Pamintuan, Jiyeah",Female,55 - 64,2300,Non-Danish,Never married,0
 1190,"al-Moghaddam, Amniyya",Female,65+,2400,Non-Danish,Married/separated,0
 1191,"Ortiz, Candance",Female,45 - 54,2400,Non-Danish,Married/separated,0
-1192,"Montoya, Raul",Male,55 - 64,2200,Non-Danish,Never married,2
 1193,"Thao, Kevin",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1194,"Suina, Tristany",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
-1195,"Hernandez, Vanessa",Female,55 - 64,2300,Non-Danish,Never married,2
 1196,"Mills, Karissa",Female,45 - 54,2300,Non-Danish,Married/separated,0
-1197,"Carlson, Benjamin",Male,55 - 64,2300,Non-Danish,Married/separated,2
 1198,"Cunningham, Alexander",Male,55 - 64,2300,Non-Danish,Married/separated,0
-1199,"Galvan, Rhemedio",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,2
-1200,"Yang, Monique",Female,65+,2100,Non-Danish,Never married,2
 1201,"Ortiz, David",Male,45 - 54,2300,Non-Danish,Widowed / Divorced,0
-1202,"Dickey, Zaire",Female,55 - 64,2200,Non-Danish,Married/separated,2
 1203,"Nealy, Breanna",Female,65+,2200,Non-Danish,Widowed / Divorced,0
-1204,"Halling, Robert",Male,45 - 54,2300,Non-Danish,Married/separated,2
 1205,"al-Samra, Numair",Male,65+,2400,Non-Danish,Married/separated,0
-1206,"Dahl, Autumn",Female,55 - 64,2300,Non-Danish,Married/separated,2
-1207,"Patterson, Anthonya",Female,65+,2300,Non-Danish,Married/separated,2
 1208,"Page, Shoshana",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1209,"el-Mohiuddin, Adnaan",Male,55 - 64,2300,Non-Danish,Never married,0
-1210,"Saldana, Osvaldo",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,2
 1211,"Segura, Shyanne",Female,65+,2200,Non-Danish,Married/separated,0
 1212,"Morris, Cochise",Male,55 - 64,2200,Non-Danish,Never married,0
 1213,"al-Kassem, Huwaida",Female,65+,2400,Non-Danish,Married/separated,0
@@ -1218,8 +869,6 @@
 1216,"Warren, Auston",Male,65+,2300,Non-Danish,Married/separated,0
 1217,"Jacket, Alonis",Female,55 - 64,2200,Non-Danish,Married/separated,0
 1218,"Jin, Judy",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,0
-1219,"De Santiago, Denisse",Female,65+,2300,Non-Danish,Widowed / Divorced,2
-1220,"el-Rahim, Mazeed",Male,65+,2400,Non-Danish,Married/separated,2
 1221,"el-Diab, Saood",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1222,"Khvay, Brenna",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1223,"Clark, Shanekqua",Female,55 - 64,2200,Non-Danish,Married/separated,0
@@ -1227,7 +876,6 @@
 1225,"Vasquez, Isabella",Female,45 - 54,2200,Non-Danish,Never married,0
 1226,"Lang, Joshua",Male,55 - 64,2100,Non-Danish,Widowed / Divorced,0
 1227,"el-Bilal, Musaaid",Male,45 - 54,2400,Non-Danish,Married/separated,0
-1228,"Huerta, Jesus",Male,45 - 54,2300,Non-Danish,Never married,2
 1229,"Medina, Megan",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
 1230,"Dart, Brittany",Female,45 - 54,2400,Non-Danish,Married/separated,0
 1231,"Gill, Jubilari",Male,65+,2400,Non-Danish,Married/separated,0
@@ -1238,82 +886,44 @@
 1236,"Lawrence, Mason",Male,55 - 64,2100,Non-Danish,Married/separated,0
 1237,"Breckenridge, Erin",Female,45 - 54,2400,Non-Danish,Never married,0
 1238,"Walker, Monica",Female,55 - 64,2400,Non-Danish,Married/separated,0
-1239,"Johnson, Tranae",Female,55 - 64,2200,Non-Danish,Widowed / Divorced,2
-1240,"Masters, Mariah",Female,55 - 64,2400,Non-Danish,Never married,2
 1241,"al-Younis, Thanaa",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
-1242,"al-Syed, Haala",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,2
 1243,"Wilson, Adjoa",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
-1244,"Schwalger, Hana",Female,45 - 54,2100,Non-Danish,Widowed / Divorced,2
 1245,"Tudor, Michael",Male,45 - 54,2400,Non-Danish,Married/separated,0
 1246,"Schenally, Whitney",Female,55 - 64,2200,Non-Danish,Never married,0
 1247,"Velie, Jacob",Male,55 - 64,2400,Non-Danish,Never married,0
-1248,"el-Asmar, Mujaahida",Female,45 - 54,2100,Non-Danish,Never married,2
 1249,"Walters, Ashley",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1250,"Avila, Lucero",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1251,"Spencer, Brianna",Female,65+,2400,Non-Danish,Married/separated,0
-1252,"al-Safi, Tuhfa",Female,55 - 64,2300,Non-Danish,Never married,2
-1253,"al-Abdella, Wajdi",Male,55 - 64,2400,Non-Danish,Never married,2
 1254,"Hernandez, Clara",Female,45 - 54,2200,Non-Danish,Never married,0
-1255,"al-Anwar, Minnah",Female,65+,2100,Non-Danish,Married/separated,2
-1256,"Mecillas, Juan",Male,55 - 64,2300,Non-Danish,Never married,2
 1257,"al-Bagheri, Amaan",Male,55 - 64,2300,Non-Danish,Married/separated,0
-1258,"el-Shahin, Abdur Raqeeb",Male,55 - 64,2200,Non-Danish,Married/separated,2
 1259,"Iyer, Cara",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1260,"Poonpiset, Anthony",Male,65+,2100,Non-Danish,Married/separated,0
-1261,"Bartoszek, Jeremy",Male,45 - 54,2200,Non-Danish,Married/separated,2
 1262,"Cardenas, Alexander",Male,45 - 54,2400,Non-Danish,Never married,0
 1263,"Rivas, Neil",Male,55 - 64,2300,Non-Danish,Married/separated,0
-1264,"Heale, Sparrow",Female,45 - 54,2400,Non-Danish,Never married,2
 1265,"Xatkoun, Veronica",Female,45 - 54,2400,Non-Danish,Never married,0
 1266,"Varasteh, Michelle",Female,45 - 54,2300,Non-Danish,Widowed / Divorced,0
-1267,"Allen, Jade",Female,65+,2300,Non-Danish,Widowed / Divorced,2
 1268,"Yang, Ali",Male,55 - 64,2300,Non-Danish,Married/separated,0
 1269,"Wands, Jose",Male,65+,2200,Non-Danish,Married/separated,0
 1270,"Zang, Hamza",Male,45 - 54,2400,Non-Danish,Married/separated,0
-1271,"Montoya-Dietrich, Sara",Female,65+,2200,Non-Danish,Married/separated,2
 1272,"Sabio, Sahza",Female,55 - 64,2100,Non-Danish,Widowed / Divorced,0
-1273,"Boatman, Melissa",Female,65+,2400,Non-Danish,Married/separated,2
-1274,"Martinez, Alex",Female,45 - 54,2400,Non-Danish,Married/separated,2
 1275,"el-Morad, Zainab",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
 1276,"Avila, Tyler",Male,55 - 64,2300,Non-Danish,Married/separated,0
 1277,"Hinton, Kiache",Female,55 - 64,2300,Non-Danish,Married/separated,0
-1278,"Flyinghawk, Victoria",Female,55 - 64,2400,Non-Danish,Married/separated,2
-1279,"Guzman Pinzon, Ahron",Male,45 - 54,2400,Non-Danish,Married/separated,2
 1280,"Roller, Jana",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1281,"Gatson, Duncan",Male,45 - 54,2100,Non-Danish,Never married,0
-1282,"Luna, Kyle",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,2
-1283,"Gonring, Samual",Male,55 - 64,2400,Non-Danish,Married/separated,2
-1284,"Gonzales, Steven",Male,55 - 64,2400,Non-Danish,Married/separated,2
-1285,"Woods, Chelsea",Female,55 - 64,2300,Non-Danish,Married/separated,2
 1286,"Eng, Nicholas",Male,55 - 64,2200,Non-Danish,Never married,0
-1287,"Huff, Marissa",Female,55 - 64,2400,Non-Danish,Never married,2
-1288,"Cowan, Shelby",Female,55 - 64,2400,Non-Danish,Married/separated,2
-1289,"Wood, Brandilynn",Female,55 - 64,2300,Non-Danish,Married/separated,2
-1290,"el-Akbari, Tayyiba",Female,45 - 54,2400,Non-Danish,Married/separated,2
 1291,"An, Leslie",Female,65+,2300,Non-Danish,Married/separated,0
-1292,"Jones, Anthony",Male,55 - 64,2300,Non-Danish,Never married,2
 1293,"el-Sayed, Naseeba",Female,45 - 54,2400,Non-Danish,Never married,0
-1294,"Leieritz, Trent",Male,55 - 64,2400,Non-Danish,Married/separated,2
 1295,"Le, Yaejin",Female,45 - 54,2200,Non-Danish,Never married,0
 1296,"Cagle, Desert",Male,55 - 64,2300,Non-Danish,Widowed / Divorced,0
-1297,"Munoz, Calvin",Male,65+,2400,Non-Danish,Widowed / Divorced,2
-1298,"al-Fawaz, Waseem",Male,65+,2200,Non-Danish,Married/separated,2
-1299,"Eaglin, Joshua",Male,65+,2300,Non-Danish,Married/separated,2
 1300,"Diebert, Madison",Female,65+,2400,Non-Danish,Married/separated,0
 1301,"Ho, Rachel",Female,65+,2400,Non-Danish,Married/separated,0
 1302,"Castro, Juan",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1303,"Martinez, Grayson",Male,65+,2200,Non-Danish,Married/separated,0
 1304,"el-Salem, Nawaal",Female,65+,2100,Non-Danish,Married/separated,0
-1305,"Martinez, Alexis",Female,65+,2300,Non-Danish,Never married,2
 1306,"Bluejacket, Stephen",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1307,"Carter, Mikayla",Female,65+,2400,Non-Danish,Married/separated,2
-1308,"Garcia-Delacruz, America",Female,65+,2300,Non-Danish,Married/separated,2
 1309,"Kemp, Tyler",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1310,"Carpenter, Deidra",Female,65+,2100,Non-Danish,Married/separated,0
-1311,"Appiah, Tyler",Male,65+,2300,Non-Danish,Married/separated,2
-1312,"Pelopida, Zachary",Male,65+,2200,Non-Danish,Married/separated,2
-1313,"Hall, Nora",Female,65+,2400,Non-Danish,Married/separated,2
-1314,"Holland, Laquisheanna",Female,65+,2100,Non-Danish,Widowed / Divorced,2
 1315,"Howell, Zyaria",Female,65+,2200,Non-Danish,Never married,0
 1316,"Godley, Jazmin",Female,65+,2200,Non-Danish,Married/separated,0
 1317,"Goheen, Dakota",Male,65+,2300,Non-Danish,Widowed / Divorced,0
@@ -1322,7 +932,6 @@
 1320,"el-Vaziri, Wajdi",Male,65+,2200,Non-Danish,Married/separated,0
 1321,"Bufkin, Kameron",Male,65+,2200,Non-Danish,Widowed / Divorced,0
 1322,"el-Hares, Widdad",Female,65+,2200,Non-Danish,Widowed / Divorced,0
-1323,"Smith, Shelby",Female,65+,2400,Non-Danish,Married/separated,2
 1324,"Mendinghall, Edward",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1325,"Fearce, La Aja",Female,55 - 64,2300,Non-Danish,Never married,0
 1326,"Strock, K'Lyn",Female,55 - 64,2300,Non-Danish,Married/separated,0
@@ -1333,51 +942,29 @@
 1331,"Truong, Liang",Male,65+,2300,Non-Danish,Married/separated,0
 1332,"Galdamez, Luz Mariel",Female,55 - 64,2200,Non-Danish,Never married,0
 1333,"Acosta, Amanda",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1334,"Callahan, Katlyn",Female,65+,2200,Non-Danish,Married/separated,2
 1335,"Thielemann, Johnathan",Male,65+,2100,Non-Danish,Married/separated,0
-1336,"Moreno, Colin",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,2
 1337,"al-Salek, Nawwaara",Female,55 - 64,2400,Non-Danish,Married/separated,0
-1338,"Villa, Cody",Male,65+,2300,Non-Danish,Married/separated,2
-1339,"Tinsley, Ryan",Male,65+,2300,Non-Danish,Widowed / Divorced,2
 1340,"Nguyen, Della",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1341,"Ausborne, Connie",Female,35 - 44,2200,Non-Danish,Married/separated,0
-1342,"al-Khatib, Wadha",Female,65+,2200,Non-Danish,Never married,2
 1343,"Sampson, Kathryn",Female,65+,2400,Non-Danish,Married/separated,0
 1344,"Long, Bethelhem",Female,55 - 64,2200,Non-Danish,Widowed / Divorced,0
 1345,"Llerenas, Tania",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1346,"James, Kevin",Male,65+,2400,Non-Danish,Widowed / Divorced,2
-1347,"Xiong, Nadia",Female,65+,2200,Non-Danish,Widowed / Divorced,2
 1348,"Cannell, Shelby",Female,55 - 64,2100,Non-Danish,Married/separated,0
 1349,"Digesualdo, Madalyn",Female,65+,2100,Non-Danish,Married/separated,0
-1350,"Wright, Jalaya",Female,65+,2200,Non-Danish,Married/separated,2
-1351,"Latas, Glennon",Male,55 - 64,2300,Non-Danish,Married/separated,2
-1352,"Ghee, Kyle",Male,65+,2300,Non-Danish,Married/separated,2
-1353,"Varanai, Michael",Male,65+,2400,Non-Danish,Widowed / Divorced,2
 1354,"el-Ullah, Fikriyya",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1355,"Kalous, Isaac",Male,45 - 54,2400,Non-Danish,Married/separated,2
 1356,"Mild, Michael",Male,55 - 64,2200,Non-Danish,Widowed / Divorced,0
 1357,"Tafoya, Olivia",Female,65+,2400,Non-Danish,Married/separated,0
-1358,"Glander, Mckinzee",Female,65+,2200,Non-Danish,Widowed / Divorced,2
-1359,"Durdic, Kaide",Male,65+,2300,Non-Danish,Married/separated,2
 1360,"al-Shah, Naadir",Male,65+,2400,Non-Danish,Widowed / Divorced,0
-1361,"Olguin, Cherokee",Female,65+,2400,Non-Danish,Married/separated,2
 1362,"Newton, Sabriya",Female,65+,2300,Non-Danish,Married/separated,0
 1363,"Thibault, Drew",Male,65+,2300,Non-Danish,Married/separated,0
 1364,"Loughridge, Kyle",Male,65+,2200,Non-Danish,Married/separated,0
-1365,"Wright, Taylor",Female,55 - 64,2200,Non-Danish,Never married,2
 1366,"el-Mohammadi, Tayyib",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1367,"el-Ibrahim, Fat'hiyaa",Female,65+,2300,Non-Danish,Married/separated,0
-1368,"Duong, Yinghan",Male,65+,2400,Non-Danish,Widowed / Divorced,2
 1369,"el-Sultana, Farhaana",Female,65+,2400,Non-Danish,Married/separated,0
-1370,"Lucero, Karina",Female,55 - 64,2400,Non-Danish,Married/separated,2
 1371,"Walker, Brooklyn",Female,55 - 64,2100,Non-Danish,Married/separated,0
-1372,"Saathoff, Alexander",Male,55 - 64,2200,Non-Danish,Married/separated,2
 1373,"Prom, Uyen",Female,65+,2200,Non-Danish,Widowed / Divorced,0
-1374,"Moon, Cindy",Female,18 - 34,2300,Non-Danish,Never married,2
 1375,"Pasillas, Alejandra",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1376,"Goodin, Scott",Male,65+,2200,Non-Danish,Never married,2
 1377,"Vasquez, Jose",Male,65+,2400,Non-Danish,Widowed / Divorced,0
-1378,"Araujo, Taneesha",Female,65+,2300,Non-Danish,Never married,2
 1379,"Kim, Shannon",Female,65+,2200,Non-Danish,Widowed / Divorced,0
 1380,"Broadway, Lariah",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1381,"Perez, Nancy",Female,65+,2300,Non-Danish,Widowed / Divorced,0
@@ -1385,107 +972,71 @@
 1383,"el-Ghaffari, Anas",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1384,"Wilson, Luke",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1385,"Carson, Mason",Male,65+,2200,Non-Danish,Never married,0
-1386,"al-Sarwar, Tameem",Male,65+,2400,Non-Danish,Widowed / Divorced,2
-1387,"Conley, Amos",Male,65+,2200,Non-Danish,Widowed / Divorced,2
 1388,"Chang, Nathaniel",Male,65+,2200,Non-Danish,Married/separated,0
 1389,"Javalera, Ania",Female,65+,2200,Non-Danish,Widowed / Divorced,0
-1390,"Romero, Kanae",Female,65+,2400,Non-Danish,Widowed / Divorced,2
-1391,"Cunningham, Paulina",Female,65+,2100,Non-Danish,Married/separated,2
-1392,"al-Hasan, Raita",Female,35 - 44,2200,Non-Danish,Married/separated,2
 1393,"Gover, Monica",Female,35 - 44,2400,Non-Danish,Never married,0
 1394,"Ridenour, Josie",Female,65+,2200,Non-Danish,Never married,0
 1395,"al-Mahfouz, Manaahil",Female,65+,2100,Non-Danish,Widowed / Divorced,0
 1396,"Chavez, Isacc",Male,45 - 54,2200,Non-Danish,Married/separated,0
 1397,"Moore, Matthew",Male,65+,2400,Non-Danish,Widowed / Divorced,0
-1398,"al-Shahin, Farha",Female,65+,2100,Non-Danish,Widowed / Divorced,2
 1399,"Klocker, Stephen",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1400,"Roblyer, Shawn",Male,65+,2200,Non-Danish,Widowed / Divorced,0
 1401,"Polk, Christina",Female,65+,2400,Non-Danish,Married/separated,0
 1402,"Fitzsimmons, Jasmine",Female,65+,2400,Non-Danish,Married/separated,0
 1403,"Thompson, Marissa",Female,65+,2400,Non-Danish,Married/separated,0
-1404,"Carey, Deziree",Female,65+,2200,Non-Danish,Married/separated,2
-1405,"Bicknell, K'Juan",Male,45 - 54,2400,Non-Danish,Never married,2
-1406,"Ramirez, Diana",Female,65+,2200,Non-Danish,Never married,2
-1407,"Romero, Jose",Male,65+,2200,Non-Danish,Never married,2
 1408,"Massey, Teran",Male,65+,2200,Non-Danish,Married/separated,0
-1409,"Bowling, Landon",Male,65+,2300,Non-Danish,Widowed / Divorced,2
 1410,"Petersian, Hakeem",Male,65+,2200,Non-Danish,Married/separated,0
 1411,"Price, Dayriana",Female,35 - 44,2200,Non-Danish,Never married,0
-1412,"Dunning, Sheridan",Female,65+,2300,Non-Danish,Never married,2
-1413,"Tromble, Rocky",Male,65+,2400,Non-Danish,Married/separated,2
 1414,"Bryant, Allura",Female,65+,2400,Non-Danish,Never married,0
-1415,"Mcdowell, Stephanie",Female,65+,2400,Non-Danish,Married/separated,2
 1416,"Payte, Austin",Male,45 - 54,2300,Non-Danish,Never married,0
 1417,"Torres, Margaret",Female,65+,2200,Non-Danish,Married/separated,0
-1418,"Arndt, Alexandria",Female,45 - 54,2400,Non-Danish,Married/separated,2
-1419,"Borrego, Gerry",Male,65+,2400,Non-Danish,Widowed / Divorced,2
 1420,"Tehero, Dominique",Male,65+,2400,Non-Danish,Married/separated,0
-1421,"Olson, Mary",Female,65+,2300,Non-Danish,Married/separated,2
 1422,"Tran, Mariko",Female,55 - 64,2100,Non-Danish,Widowed / Divorced,0
 1423,"Runningbear-Paul, Wyatt",Male,65+,2400,Non-Danish,Married/separated,0
 1424,"Ariki, Alexandria",Female,45 - 54,2300,Non-Danish,Married/separated,0
 1425,"al-Jama, Qais",Male,65+,2400,Non-Danish,Married/separated,0
 1426,"el-Atallah, Umair",Male,65+,2300,Non-Danish,Married/separated,0
-1427,"Nason, Savannah",Female,65+,2400,Non-Danish,Widowed / Divorced,2
-1428,"el-Siddique, Abdur Rasheed",Male,65+,2400,Non-Danish,Married/separated,2
-1429,"al-Matar, Lateefa",Female,65+,2300,Non-Danish,Widowed / Divorced,2
 1430,"Huey, Jaron",Male,65+,2400,Non-Danish,Married/separated,0
 1431,"Rodriguez, Isela",Female,65+,2100,Non-Danish,Widowed / Divorced,0
 1432,"Sidara, Khulan",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1433,"Bailey, Bobbie",Female,35 - 44,2400,Non-Danish,Married/separated,2
 1434,"Bentley, Taylor",Male,55 - 64,2400,Non-Danish,Married/separated,0
-1435,"Justice, Katie",Female,65+,2100,Non-Danish,Widowed / Divorced,2
 1436,"Nocon, Vanessa",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1437,"al-Basa, Haamid",Male,65+,2200,Non-Danish,Married/separated,0
 1438,"Ahrens, Kierra",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1439,"Dalke, William",Male,65+,2400,Non-Danish,Married/separated,0
 1440,"el-Mohammadi, Saafiyya",Female,65+,2300,Non-Danish,Widowed / Divorced,0
-1441,"Chen, Hannah",Female,55 - 64,2400,Non-Danish,Married/separated,2
 1442,"Sridhar, Daniel",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1443,"Steenburgh, Tanner",Male,65+,2100,Non-Danish,Married/separated,0
-1444,"Schultz, Britni",Female,55 - 64,2100,Non-Danish,Never married,2
 1445,"Brown, Paris",Female,65+,2200,Non-Danish,Widowed / Divorced,0
 1446,"Davison, Donovan",Male,65+,2400,Non-Danish,Widowed / Divorced,0
 1447,"Keller, Michael",Male,55 - 64,2200,Non-Danish,Never married,0
 1448,"al-Fahs, Saaliha",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1449,"Aguilar, Maria",Female,65+,2400,Non-Danish,Married/separated,0
-1450,"Agbim, David",Male,65+,2300,Non-Danish,Widowed / Divorced,2
 1451,"Russ, Seven",Female,45 - 54,2400,Non-Danish,Never married,0
 1452,"Koch, Raylenda",Female,55 - 64,2400,Non-Danish,Married/separated,0
 1453,"Rieb, Deidra",Female,65+,2300,Non-Danish,Married/separated,0
 1454,"Yahashi, Julietta",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1455,"Puente, Jonathan",Male,55 - 64,2400,Non-Danish,Married/separated,0
 1456,"Canty, Aaron",Male,65+,2200,Non-Danish,Widowed / Divorced,0
-1457,"al-Mahfouz, Ahlaam",Female,65+,2400,Non-Danish,Married/separated,2
-1458,"White, Ashley",Female,55 - 64,2100,Non-Danish,Married/separated,2
 1459,"el-Mahdavi, Ramziyya",Female,65+,2200,Non-Danish,Widowed / Divorced,0
 1460,"Lor, Brayden",Male,65+,2400,Non-Danish,Widowed / Divorced,0
-1461,"Davis, Cathi-Lee",Female,65+,2300,Non-Danish,Married/separated,2
-1462,"Rea, Laura",Female,55 - 64,2300,Non-Danish,Married/separated,2
 1463,"Davis, Soyeun",Female,65+,2200,Non-Danish,Married/separated,0
-1464,"Langley, Monique",Female,55 - 64,2400,Non-Danish,Never married,2
 1465,"Rainwater, Dominique",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1466,"Williams, Jorden",Male,65+,2100,Non-Danish,Married/separated,0
 1467,"el-Hosseini, Naseeba",Female,35 - 44,2200,Non-Danish,Never married,0
-1468,"Nunez, Maria",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,2
 1469,"Yousaf, Myhanh",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,0
 1470,"Sawyer, Elise",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1471,"Dyer, Robert",Male,65+,2200,Non-Danish,Married/separated,0
-1472,"Box, Madeline",Female,55 - 64,2400,Non-Danish,Widowed / Divorced,2
-1473,"Tran, Victoria",Female,65+,2100,Non-Danish,Never married,2
 1474,"Chua, Taylor",Female,65+,2100,Non-Danish,Widowed / Divorced,0
 1475,"Schwarz, Stephanie",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1476,"Moore, Nakia",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1477,"Jimenez, Mark",Male,45 - 54,2400,Non-Danish,Never married,0
-1478,"Lane, Johanna",Female,65+,2100,Non-Danish,Widowed / Divorced,2
 1479,"Siu, Fue",Male,65+,2400,Non-Danish,Widowed / Divorced,0
-1480,"Kidder, Emma",Female,65+,2100,Non-Danish,Married/separated,2
 1481,"Lynch, Winthana",Female,55 - 64,2300,Non-Danish,Widowed / Divorced,0
 1482,"el-Taha, Mahdi",Male,65+,2300,Non-Danish,Married/separated,0
 1483,"Munoz, Andres",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1484,"Haley, Connor",Male,55 - 64,2200,Non-Danish,Married/separated,0
 1485,"Scott, Darren",Male,65+,2200,Non-Danish,Married/separated,0
-1486,"Roundy, Lauryn",Female,65+,2300,Non-Danish,Married/separated,2
 1487,"Benjamin, Davion",Male,65+,2400,Non-Danish,Married/separated,0
 1488,"el-Aman, Naaila",Female,65+,2100,Non-Danish,Married/separated,0
 1489,"Clark, Orion",Male,65+,2300,Non-Danish,Married/separated,0
@@ -1493,30 +1044,21 @@
 1491,"Franklin, Dante",Male,45 - 54,2400,Non-Danish,Married/separated,0
 1492,"Wulfing, Madilyn",Female,55 - 64,2300,Non-Danish,Married/separated,0
 1493,"Khwajazada, Jordan",Female,55 - 64,2400,Non-Danish,Married/separated,0
-1494,"al-Ahmadi, Firdaus",Female,65+,2400,Non-Danish,Married/separated,2
 1495,"Cabrera, Maia",Female,65+,2400,Non-Danish,Married/separated,0
 1496,"Bennett, Marcus",Male,65+,2200,Non-Danish,Never married,0
 1497,"al-Ahsan, Munisa",Female,65+,2400,Non-Danish,Widowed / Divorced,0
-1498,"Caraveo Ibarra, Bryan",Male,65+,2400,Non-Danish,Married/separated,2
 1499,"Hamdan, Terran",Male,55 - 64,2100,Non-Danish,Married/separated,0
 1500,"Dye, Dallas",Female,65+,2400,Non-Danish,Never married,0
-1501,"Lipsky, Rachael",Female,65+,2400,Non-Danish,Married/separated,2
 1502,"Black, Ashley",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1503,"Ospina, Brian",Male,55 - 64,2400,Non-Danish,Never married,0
 1504,"Nguyen, David",Male,65+,2300,Non-Danish,Married/separated,0
 1505,"Sanchez, Katherine",Female,55 - 64,2100,Non-Danish,Never married,0
 1506,"el-Tawil, Sulama",Female,65+,2400,Non-Danish,Married/separated,0
 1507,"Villegas, Jerome",Male,55 - 64,2200,Non-Danish,Married/separated,0
-1508,"Little, Jaelen",Male,65+,2400,Non-Danish,Married/separated,2
-1509,"Mcdermott, Alisa",Female,65+,2400,Non-Danish,Widowed / Divorced,2
-1510,"Cornforth, Kelsey",Female,65+,2200,Non-Danish,Widowed / Divorced,2
 1511,"Jimenez, Lizzeth",Female,65+,2200,Non-Danish,Widowed / Divorced,0
 1512,"Amos, Jason",Male,65+,2200,Non-Danish,Married/separated,0
 1513,"Nguyen, Hamid",Male,65+,2400,Non-Danish,Married/separated,0
-1514,"Mendoza, Fabian",Male,45 - 54,2400,Non-Danish,Never married,2
 1515,"Levengood, Bronzelle",Male,65+,2300,Non-Danish,Widowed / Divorced,0
-1516,"Ngo, Hannah",Female,35 - 44,2400,Non-Danish,Widowed / Divorced,2
-1517,"el-Salman, Luqmaan",Male,65+,2400,Non-Danish,Married/separated,2
 1518,"Anaya, Jennifer",Female,65+,2400,Non-Danish,Widowed / Divorced,0
 1519,"Christianson, Brynna",Female,45 - 54,2400,Non-Danish,Widowed / Divorced,0
 1520,"Pham, Cheryl",Female,35 - 44,2400,Non-Danish,Married/separated,0
@@ -1528,4 +1070,3 @@
 1526,"Vigil, Manuel",Male,65+,2200,Non-Danish,Widowed / Divorced,0
 1527,"Thompson, Keili",Male,55 - 64,2400,Non-Danish,Widowed / Divorced,0
 1528,"al-Uddin, Rifat",Male,65+,2100,Non-Danish,Married/separated,0
-1529,"Stubblefield, John",Male,65+,2200,Non-Danish,Married/separated,2
