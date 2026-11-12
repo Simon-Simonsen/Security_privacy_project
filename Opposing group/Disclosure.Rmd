@@ -1,0 +1,181 @@
+---
+title: "Linkage"
+output: html_document
+date: "2026-11-09"
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(lubridate)
+library(RecordLinkage)
+library(dplyr)
+library(stringr)
+library(stringi)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+df_register <- read.csv("~/Desktop/Security & Privacy/Security_phase 1/Security_privacy_project/Opposing group/df_register_opposing.csv")
+df_X <- read.csv("~/Desktop/Security & Privacy/Security_phase 1/Security_privacy_project/Opposing group/df_opposing_last_voted.csv")
+```
+
+```{r}
+str(df_register)
+```
+```{r}
+str(df_X)
+```
+```{r}
+df_register <- df_register %>% rename(age_group = dob)
+
+# Trim whitespace and standardise case, in case of "35 - 44" vs "35-44"
+clean <- function(x) tolower(trimws(gsub("\\s*-\\s*", "-", x)))
+for (v in c("sex", "citizenship", "marital_status", "age_group")) {
+  df_X[[v]]        <- clean(df_X[[v]])
+  df_register[[v]] <- clean(df_register[[v]])
+}
+df_register <- df_register %>%
+  mutate(evote = as.integer(last_voted == 1))
+
+df_register
+
+```
+
+Deterministic methods:
+
+```{r}
+library(dplyr)
+
+keys <- c("sex", "citizenship", "marital_status", "age_group", "last_voted","evote")
+
+# --- Linkage (unchanged) -----------------------------------------------------
+cand <- df_X %>%
+  select(X_id = X, all_of(keys)) %>%
+  inner_join(df_register %>% select(reg_id = X, name, zip, all_of(keys)),
+             by = keys, relationship = "many-to-many")
+
+n_cand <- cand %>% count(X_id, name = "n_candidates")
+
+df_X2 <- df_X %>%
+  left_join(n_cand, by = c("X" = "X_id")) %>%
+  mutate(n_candidates = coalesce(n_candidates, 0L))
+
+unique_matches <- cand %>%
+  semi_join(filter(n_cand, n_candidates == 1), by = "X_id")
+
+# --- Context for the numbers -------------------------------------------------
+N     <- nrow(df_X2)
+N_reg <- nrow(df_register)
+  
+df_X2 <- df_X2 %>%
+  mutate(match_status = case_when(
+    n_candidates == 0 ~ "1. No match",
+    n_candidates == 1 ~ "2. Unique match",
+    TRUE              ~ "3. Ambiguous"
+  ))
+
+# 1) Overall outcome
+df_X2 %>%
+  count(match_status) %>%
+  mutate(pct = round(100 * n / N, 1),
+         meaning = case_when(
+           match_status == "1. No match"     ~ "Nobody in the register fits all 5 keys (not in register, or an attribute differs)",
+           match_status == "2. Unique match" ~ "Exactly one register person fits: re-identified",
+           TRUE                              ~ "Several people fit: you can only narrow it down"
+         ))
+
+# 2) How ambiguous are the ambiguous ones? (size of the "anonymity set")
+df_X2 %>%
+  filter(n_candidates > 1) %>%
+  summarise(
+    respondents = n(),
+    min    = min(n_candidates),
+    median = median(n_candidates),
+    mean   = round(mean(n_candidates), 1),
+    p90    = quantile(n_candidates, 0.9),
+    max    = max(n_candidates)
+  )
+
+# 3) Risk bands: fewer candidates = easier to re-identify
+df_X2 %>%
+  filter(n_candidates > 0) %>%
+  mutate(risk_band = cut(n_candidates,
+                         breaks = c(0, 1, 5, 20, Inf),
+                         labels = c("1 (unique)", "2-5 (high risk)",
+                                    "6-20 (medium)", ">20 (low)"))) %>%
+  count(risk_band) %>%
+  mutate(pct = round(100 * n / sum(n), 1))
+
+# 4) Expected number of correct names if you guess randomly among candidates
+exp_correct <- sum(1 / df_X2$n_candidates[df_X2$n_candidates > 0])
+cat(sprintf(
+  "\nRegister size: %d | Respondents: %d (%.1f%% of register)\n",
+  N_reg, N, 100 * N / N_reg))
+cat(sprintf(
+  "Expected correct identifications by random guessing: %.1f of %d (%.1f%%)\n",
+  exp_correct, N, 100 * exp_correct / N))
+cat(sprintf(
+  "Naive baseline (guessing any register person): %.2f of %d\n",
+  N / N_reg * N, N))   # roughly N * (1 / N_reg)... see note below
+
+# 5) Who is uniquely identified
+unique_matches %>% select(X_id, reg_id, name, zip)
+```
+```{r}
+
+# Sanity check: total candidate pairs should be 4,597
+sum(df_X2$n_candidates)
+
+# Uniquely linkable respondents with their sensitive attributes
+identified <- unique_matches %>%
+  select(X_id, reg_id, name, zip) %>%
+  left_join(df_X %>% select(X, education, evote, party),
+            by = c("X_id" = "X"))
+
+# Collisions: two respondents linking to the same register person
+identified %>% count(reg_id) %>% filter(n > 1)
+
+identified %>% select(name, zip, party)
+count(identified, party)
+```
+
+
+```{r}
+
+risk <- df_X2 %>%
+  mutate(
+    guess_prob = ifelse(n_candidates > 0, 1 / n_candidates, 0),
+    tier = case_when(
+      n_candidates == 0  ~ "E: no strict match",
+      n_candidates == 1  ~ "A: unique",
+      n_candidates <= 5  ~ "B: 2-5 candidates",
+      n_candidates <= 20 ~ "C: 6-20 candidates",
+      TRUE               ~ "D: >20 candidates"
+    )
+  )
+
+risk %>% group_by(tier) %>%
+  summarise(respondents = n(), expected_correct = round(sum(guess_prob), 1))
+```
+```{r}
+small <- cand %>%
+  inner_join(df_X2 %>% select(X, n_candidates, party), by = c("X_id" = "X")) %>%
+  filter(n_candidates %in% 2) %>%
+  arrange(n_candidates, X_id)
+
+# Long view: one row per respondent-candidate pair
+small %>% select(X_id, n_candidates, party, reg_id, name, zip)
+
+# Compact view: one row per respondent, candidates listed together
+small_compact <- small %>%
+  group_by(X_id, n_candidates, party) %>%
+  summarise(candidates = paste0(name, " (", zip, ")", collapse = "; "),
+            .groups = "drop")
+
+small_compact
+```
